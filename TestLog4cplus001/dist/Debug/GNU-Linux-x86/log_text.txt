@@ -1,0 +1,1062 @@
+2017-08-31 17:24:50.327.218|INFO |test[2]|3078428384|main.cpp:74|Info message
+2017-08-31 17:24:50.327.533|DEBUG|test[2]|3078428384|main.cpp:75|Debug message
+2017-08-31 17:24:50.327.572|TRACE|test[2]|3078428384|main.cpp:76|Trace message
+2017-08-31 17:24:50.327.584|ERROR|test[2]|3078428384|main.cpp:77|Error message
+2017-08-31 17:24:50.327.594|WARN |test[2]|3078428384|main.cpp:78|Warning message
+2017-08-31 17:24:50.327.604|FATAL|test[2]|3078428384|main.cpp:79|fatal message
+2017-08-31 17:24:50.327.647|INFO |test1[2]|3078428384|main.cpp:37|Info message
+2017-08-31 17:24:50.327.661|DEBUG|test1[2]|3078428384|main.cpp:38|Debug message
+2017-08-31 17:24:50.327.671|TRACE|test1[2]|3078428384|main.cpp:39|Trace message
+2017-08-31 17:24:50.327.680|ERROR|test1[2]|3078428384|main.cpp:40|Error message
+2017-08-31 17:24:50.327.690|WARN |test1[2]|3078428384|main.cpp:41|Warning message
+2017-08-31 17:24:50.327.699|FATAL|test1[2]|3078428384|main.cpp:42|fatal message
+2017-08-31 17:24:50.327.727|INFO |test2[2]|3078428384|main.cpp:54|Info message
+2017-08-31 17:24:50.327.741|DEBUG|test2[2]|3078428384|main.cpp:55|Debug message
+2017-08-31 17:24:50.327.750|TRACE|test2[2]|3078428384|main.cpp:56|Trace message
+2017-08-31 17:24:50.327.760|ERROR|test2[2]|3078428384|main.cpp:57|Error message
+2017-08-31 17:24:50.327.769|WARN |test2[2]|3078428384|main.cpp:58|Warning message
+2017-08-31 17:24:50.327.779|FATAL|test2[2]|3078428384|main.cpp:59|fatal message
+2017-08-31 17:24:50.329.861|INFO |test[2]|3078223584|main.cpp:74|Info message
+2017-08-31 17:24:50.329.986|DEBUG|test[2]|3078223584|main.cpp:75|Debug message
+2017-08-31 17:24:50.330.005|TRACE|test[2]|3078223584|main.cpp:76|Trace message
+2017-08-31 17:24:50.330.015|ERROR|test[2]|3078223584|main.cpp:77|Error message
+2017-08-31 17:24:50.330.025|WARN |test[2]|3078223584|main.cpp:78|Warning message
+2017-08-31 17:24:50.330.034|FATAL|test[2]|3078223584|main.cpp:79|fatal message
+2017-08-31 17:24:50.330.066|INFO |test1[2]|3078223584|main.cpp:37|Info message
+2017-08-31 17:24:50.330.079|DEBUG|test1[2]|3078223584|main.cpp:38|Debug message
+2017-08-31 17:24:50.330.089|TRACE|test1[2]|3078223584|main.cpp:39|Trace message
+2017-08-31 17:24:50.330.099|ERROR|test1[2]|3078223584|main.cpp:40|Error message
+2017-08-31 17:24:50.330.108|WARN |test1[2]|3078223584|main.cpp:41|Warning message
+2017-08-31 17:24:50.330.117|FATAL|test1[2]|3078223584|main.cpp:42|fatal message
+2017-08-31 17:24:50.330.145|INFO |test2[2]|3078223584|main.cpp:54|Info message
+2017-08-31 17:24:50.330.158|DEBUG|test2[2]|3078223584|main.cpp:55|Debug message
+2017-08-31 17:24:50.330.167|TRACE|test2[2]|3078223584|main.cpp:56|Trace message
+2017-08-31 17:24:50.330.176|ERROR|test2[2]|3078223584|main.cpp:57|Error message
+2017-08-31 17:24:50.330.186|WARN |test2[2]|3078223584|main.cpp:58|Warning message
+2017-08-31 17:24:50.330.195|FATAL|test2[2]|3078223584|main.cpp:59|fatal message
+2017-08-31 17:24:50.332.297|INFO |test[2]|3078076128|main.cpp:74|Info message
+2017-08-31 17:24:50.332.424|DEBUG|test[2]|3078076128|main.cpp:75|Debug message
+2017-08-31 17:24:50.332.440|TRACE|test[2]|3078076128|main.cpp:76|Trace message
+2017-08-31 17:24:50.332.450|ERROR|test[2]|3078076128|main.cpp:77|Error message
+2017-08-31 17:24:50.332.459|WARN |test[2]|3078076128|main.cpp:78|Warning message
+2017-08-31 17:24:50.332.468|FATAL|test[2]|3078076128|main.cpp:79|fatal message
+2017-08-31 17:24:50.332.500|INFO |test1[2]|3078076128|main.cpp:37|Info message
+2017-08-31 17:24:50.332.514|DEBUG|test1[2]|3078076128|main.cpp:38|Debug message
+2017-08-31 17:24:50.332.523|TRACE|test1[2]|3078076128|main.cpp:39|Trace message
+2017-08-31 17:24:50.332.532|ERROR|test1[2]|3078076128|main.cpp:40|Error message
+2017-08-31 17:24:50.332.574|WARN |test1[2]|3078076128|main.cpp:41|Warning message
+2017-08-31 17:24:50.332.585|FATAL|test1[2]|3078076128|main.cpp:42|fatal message
+2017-08-31 17:24:50.332.628|INFO |test2[2]|3078076128|main.cpp:54|Info message
+2017-08-31 17:24:50.332.642|DEBUG|test2[2]|3078076128|main.cpp:55|Debug message
+2017-08-31 17:24:50.332.651|TRACE|test2[2]|3078076128|main.cpp:56|Trace message
+2017-08-31 17:24:50.332.660|ERROR|test2[2]|3078076128|main.cpp:57|Error message
+2017-08-31 17:24:50.332.677|WARN |test2[2]|3078076128|main.cpp:58|Warning message
+2017-08-31 17:24:50.332.686|FATAL|test2[2]|3078076128|main.cpp:59|fatal message
+2017-08-31 17:24:50.334.826|INFO |test[2]|3077572320|main.cpp:74|Info message
+2017-08-31 17:24:50.334.941|DEBUG|test[2]|3077572320|main.cpp:75|Debug message
+2017-08-31 17:24:50.334.957|TRACE|test[2]|3077572320|main.cpp:76|Trace message
+2017-08-31 17:24:50.334.967|ERROR|test[2]|3077572320|main.cpp:77|Error message
+2017-08-31 17:24:50.334.976|WARN |test[2]|3077572320|main.cpp:78|Warning message
+2017-08-31 17:24:50.334.985|FATAL|test[2]|3077572320|main.cpp:79|fatal message
+2017-08-31 17:24:50.335.015|INFO |test1[2]|3077572320|main.cpp:37|Info message
+2017-08-31 17:24:50.335.028|DEBUG|test1[2]|3077572320|main.cpp:38|Debug message
+2017-08-31 17:24:50.335.037|TRACE|test1[2]|3077572320|main.cpp:39|Trace message
+2017-08-31 17:24:50.335.046|ERROR|test1[2]|3077572320|main.cpp:40|Error message
+2017-08-31 17:24:50.335.055|WARN |test1[2]|3077572320|main.cpp:41|Warning message
+2017-08-31 17:24:50.335.064|FATAL|test1[2]|3077572320|main.cpp:42|fatal message
+2017-08-31 17:24:50.335.091|INFO |test2[2]|3077572320|main.cpp:54|Info message
+2017-08-31 17:24:50.335.103|DEBUG|test2[2]|3077572320|main.cpp:55|Debug message
+2017-08-31 17:24:50.335.112|TRACE|test2[2]|3077572320|main.cpp:56|Trace message
+2017-08-31 17:24:50.335.121|ERROR|test2[2]|3077572320|main.cpp:57|Error message
+2017-08-31 17:24:50.335.130|WARN |test2[2]|3077572320|main.cpp:58|Warning message
+2017-08-31 17:24:50.335.139|FATAL|test2[2]|3077572320|main.cpp:59|fatal message
+2017-08-31 17:24:50.337.215|INFO |test[2]|3078350560|main.cpp:74|Info message
+2017-08-31 17:24:50.337.332|DEBUG|test[2]|3078350560|main.cpp:75|Debug message
+2017-08-31 17:24:50.337.348|TRACE|test[2]|3078350560|main.cpp:76|Trace message
+2017-08-31 17:24:50.337.357|ERROR|test[2]|3078350560|main.cpp:77|Error message
+2017-08-31 17:24:50.337.367|WARN |test[2]|3078350560|main.cpp:78|Warning message
+2017-08-31 17:24:50.337.376|FATAL|test[2]|3078350560|main.cpp:79|fatal message
+2017-08-31 17:24:50.337.406|INFO |test1[2]|3078350560|main.cpp:37|Info message
+2017-08-31 17:24:50.337.419|DEBUG|test1[2]|3078350560|main.cpp:38|Debug message
+2017-08-31 17:24:50.337.429|TRACE|test1[2]|3078350560|main.cpp:39|Trace message
+2017-08-31 17:24:50.337.438|ERROR|test1[2]|3078350560|main.cpp:40|Error message
+2017-08-31 17:24:50.337.447|WARN |test1[2]|3078350560|main.cpp:41|Warning message
+2017-08-31 17:24:50.337.456|FATAL|test1[2]|3078350560|main.cpp:42|fatal message
+2017-08-31 17:24:50.337.483|INFO |test2[2]|3078350560|main.cpp:54|Info message
+2017-08-31 17:24:50.337.495|DEBUG|test2[2]|3078350560|main.cpp:55|Debug message
+2017-08-31 17:24:50.337.505|TRACE|test2[2]|3078350560|main.cpp:56|Trace message
+2017-08-31 17:24:50.337.514|ERROR|test2[2]|3078350560|main.cpp:57|Error message
+2017-08-31 17:24:50.337.523|WARN |test2[2]|3078350560|main.cpp:58|Warning message
+2017-08-31 17:24:50.337.533|FATAL|test2[2]|3078350560|main.cpp:59|fatal message
+2017-08-31 17:24:50.339.650|INFO |test[2]|3077474016|main.cpp:74|Info message
+2017-08-31 17:24:50.339.784|DEBUG|test[2]|3077474016|main.cpp:75|Debug message
+2017-08-31 17:24:50.339.802|TRACE|test[2]|3077474016|main.cpp:76|Trace message
+2017-08-31 17:24:50.339.813|ERROR|test[2]|3077474016|main.cpp:77|Error message
+2017-08-31 17:24:50.339.823|WARN |test[2]|3077474016|main.cpp:78|Warning message
+2017-08-31 17:24:50.339.833|FATAL|test[2]|3077474016|main.cpp:79|fatal message
+2017-08-31 17:24:50.339.865|INFO |test1[2]|3077474016|main.cpp:37|Info message
+2017-08-31 17:24:50.339.879|DEBUG|test1[2]|3077474016|main.cpp:38|Debug message
+2017-08-31 17:24:50.339.889|TRACE|test1[2]|3077474016|main.cpp:39|Trace message
+2017-08-31 17:24:50.339.899|ERROR|test1[2]|3077474016|main.cpp:40|Error message
+2017-08-31 17:24:50.339.909|WARN |test1[2]|3077474016|main.cpp:41|Warning message
+2017-08-31 17:24:50.339.919|FATAL|test1[2]|3077474016|main.cpp:42|fatal message
+2017-08-31 17:24:50.339.949|INFO |test2[2]|3077474016|main.cpp:54|Info message
+2017-08-31 17:24:50.339.970|DEBUG|test2[2]|3077474016|main.cpp:55|Debug message
+2017-08-31 17:24:50.339.980|TRACE|test2[2]|3077474016|main.cpp:56|Trace message
+2017-08-31 17:24:50.339.990|ERROR|test2[2]|3077474016|main.cpp:57|Error message
+2017-08-31 17:24:50.340.000|WARN |test2[2]|3077474016|main.cpp:58|Warning message
+2017-08-31 17:24:50.340.009|FATAL|test2[2]|3077474016|main.cpp:59|fatal message
+2017-08-31 17:24:50.342.198|INFO |test[2]|3077879520|main.cpp:74|Info message
+2017-08-31 17:24:50.342.328|DEBUG|test[2]|3077879520|main.cpp:75|Debug message
+2017-08-31 17:24:50.342.347|TRACE|test[2]|3077879520|main.cpp:76|Trace message
+2017-08-31 17:24:50.342.358|ERROR|test[2]|3077879520|main.cpp:77|Error message
+2017-08-31 17:24:50.342.368|WARN |test[2]|3077879520|main.cpp:78|Warning message
+2017-08-31 17:24:50.342.379|FATAL|test[2]|3077879520|main.cpp:79|fatal message
+2017-08-31 17:24:50.342.412|INFO |test1[2]|3077879520|main.cpp:37|Info message
+2017-08-31 17:24:50.342.427|DEBUG|test1[2]|3077879520|main.cpp:38|Debug message
+2017-08-31 17:24:50.342.438|TRACE|test1[2]|3077879520|main.cpp:39|Trace message
+2017-08-31 17:24:50.342.448|ERROR|test1[2]|3077879520|main.cpp:40|Error message
+2017-08-31 17:24:50.342.459|WARN |test1[2]|3077879520|main.cpp:41|Warning message
+2017-08-31 17:24:50.342.469|FATAL|test1[2]|3077879520|main.cpp:42|fatal message
+2017-08-31 17:24:50.342.499|INFO |test2[2]|3077879520|main.cpp:54|Info message
+2017-08-31 17:24:50.342.513|DEBUG|test2[2]|3077879520|main.cpp:55|Debug message
+2017-08-31 17:24:50.342.524|TRACE|test2[2]|3077879520|main.cpp:56|Trace message
+2017-08-31 17:24:50.342.534|ERROR|test2[2]|3077879520|main.cpp:57|Error message
+2017-08-31 17:24:50.342.567|WARN |test2[2]|3077879520|main.cpp:58|Warning message
+2017-08-31 17:24:50.342.579|FATAL|test2[2]|3077879520|main.cpp:59|fatal message
+2017-08-31 17:24:50.344.866|INFO |test[2]|3078129376|main.cpp:74|Info message
+2017-08-31 17:24:50.345.006|DEBUG|test[2]|3078129376|main.cpp:75|Debug message
+2017-08-31 17:24:50.345.024|TRACE|test[2]|3078129376|main.cpp:76|Trace message
+2017-08-31 17:24:50.345.037|ERROR|test[2]|3078129376|main.cpp:77|Error message
+2017-08-31 17:24:50.345.046|WARN |test[2]|3078129376|main.cpp:78|Warning message
+2017-08-31 17:24:50.345.056|FATAL|test[2]|3078129376|main.cpp:79|fatal message
+2017-08-31 17:24:50.345.089|INFO |test1[2]|3078129376|main.cpp:37|Info message
+2017-08-31 17:24:50.345.104|DEBUG|test1[2]|3078129376|main.cpp:38|Debug message
+2017-08-31 17:24:50.345.114|TRACE|test1[2]|3078129376|main.cpp:39|Trace message
+2017-08-31 17:24:50.345.124|ERROR|test1[2]|3078129376|main.cpp:40|Error message
+2017-08-31 17:24:50.345.134|WARN |test1[2]|3078129376|main.cpp:41|Warning message
+2017-08-31 17:24:50.345.143|FATAL|test1[2]|3078129376|main.cpp:42|fatal message
+2017-08-31 17:24:50.345.172|INFO |test2[2]|3078129376|main.cpp:54|Info message
+2017-08-31 17:24:50.345.185|DEBUG|test2[2]|3078129376|main.cpp:55|Debug message
+2017-08-31 17:24:50.345.195|TRACE|test2[2]|3078129376|main.cpp:56|Trace message
+2017-08-31 17:24:50.345.204|ERROR|test2[2]|3078129376|main.cpp:57|Error message
+2017-08-31 17:24:50.345.214|WARN |test2[2]|3078129376|main.cpp:58|Warning message
+2017-08-31 17:24:50.345.224|FATAL|test2[2]|3078129376|main.cpp:59|fatal message
+2017-08-31 17:24:50.347.261|INFO |test[2]|3078235872|main.cpp:74|Info message
+2017-08-31 17:24:50.347.404|DEBUG|test[2]|3078235872|main.cpp:75|Debug message
+2017-08-31 17:24:50.347.425|TRACE|test[2]|3078235872|main.cpp:76|Trace message
+2017-08-31 17:24:50.347.437|ERROR|test[2]|3078235872|main.cpp:77|Error message
+2017-08-31 17:24:50.347.447|WARN |test[2]|3078235872|main.cpp:78|Warning message
+2017-08-31 17:24:50.347.457|FATAL|test[2]|3078235872|main.cpp:79|fatal message
+2017-08-31 17:24:50.347.492|INFO |test1[2]|3078235872|main.cpp:37|Info message
+2017-08-31 17:24:50.347.514|DEBUG|test1[2]|3078235872|main.cpp:38|Debug message
+2017-08-31 17:24:50.347.525|TRACE|test1[2]|3078235872|main.cpp:39|Trace message
+2017-08-31 17:24:50.347.535|ERROR|test1[2]|3078235872|main.cpp:40|Error message
+2017-08-31 17:24:50.347.562|WARN |test1[2]|3078235872|main.cpp:41|Warning message
+2017-08-31 17:24:50.347.604|FATAL|test1[2]|3078235872|main.cpp:42|fatal message
+2017-08-31 17:24:50.347.652|INFO |test2[2]|3078235872|main.cpp:54|Info message
+2017-08-31 17:24:50.347.684|DEBUG|test2[2]|3078235872|main.cpp:55|Debug message
+2017-08-31 17:24:50.347.696|TRACE|test2[2]|3078235872|main.cpp:56|Trace message
+2017-08-31 17:24:50.347.706|ERROR|test2[2]|3078235872|main.cpp:57|Error message
+2017-08-31 17:24:50.347.716|WARN |test2[2]|3078235872|main.cpp:58|Warning message
+2017-08-31 17:24:50.347.727|FATAL|test2[2]|3078235872|main.cpp:59|fatal message
+2017-08-31 17:24:50.349.985|INFO |test[2]|3078100704|main.cpp:74|Info message
+2017-08-31 17:24:50.350.129|DEBUG|test[2]|3078100704|main.cpp:75|Debug message
+2017-08-31 17:24:50.350.151|TRACE|test[2]|3078100704|main.cpp:76|Trace message
+2017-08-31 17:24:50.350.162|ERROR|test[2]|3078100704|main.cpp:77|Error message
+2017-08-31 17:24:50.350.173|WARN |test[2]|3078100704|main.cpp:78|Warning message
+2017-08-31 17:24:50.350.184|FATAL|test[2]|3078100704|main.cpp:79|fatal message
+2017-08-31 17:24:50.350.219|INFO |test1[2]|3078100704|main.cpp:37|Info message
+2017-08-31 17:24:50.350.234|DEBUG|test1[2]|3078100704|main.cpp:38|Debug message
+2017-08-31 17:24:50.350.245|TRACE|test1[2]|3078100704|main.cpp:39|Trace message
+2017-08-31 17:24:50.350.256|ERROR|test1[2]|3078100704|main.cpp:40|Error message
+2017-08-31 17:24:50.350.266|WARN |test1[2]|3078100704|main.cpp:41|Warning message
+2017-08-31 17:24:50.350.276|FATAL|test1[2]|3078100704|main.cpp:42|fatal message
+2017-08-31 17:24:50.350.307|INFO |test2[2]|3078100704|main.cpp:54|Info message
+2017-08-31 17:24:50.350.326|DEBUG|test2[2]|3078100704|main.cpp:55|Debug message
+2017-08-31 17:24:50.350.337|TRACE|test2[2]|3078100704|main.cpp:56|Trace message
+2017-08-31 17:24:50.350.347|ERROR|test2[2]|3078100704|main.cpp:57|Error message
+2017-08-31 17:24:50.350.358|WARN |test2[2]|3078100704|main.cpp:58|Warning message
+2017-08-31 17:24:50.350.368|FATAL|test2[2]|3078100704|main.cpp:59|fatal message
+2017-08-31 17:24:50.352.477|INFO |test[2]|3078186720|main.cpp:74|Info message
+2017-08-31 17:24:50.352.658|DEBUG|test[2]|3078186720|main.cpp:75|Debug message
+2017-08-31 17:24:50.352.678|TRACE|test[2]|3078186720|main.cpp:76|Trace message
+2017-08-31 17:24:50.352.689|ERROR|test[2]|3078186720|main.cpp:77|Error message
+2017-08-31 17:24:50.352.700|WARN |test[2]|3078186720|main.cpp:78|Warning message
+2017-08-31 17:24:50.352.710|FATAL|test[2]|3078186720|main.cpp:79|fatal message
+2017-08-31 17:24:50.352.745|INFO |test1[2]|3078186720|main.cpp:37|Info message
+2017-08-31 17:24:50.352.760|DEBUG|test1[2]|3078186720|main.cpp:38|Debug message
+2017-08-31 17:24:50.352.770|TRACE|test1[2]|3078186720|main.cpp:39|Trace message
+2017-08-31 17:24:50.352.781|ERROR|test1[2]|3078186720|main.cpp:40|Error message
+2017-08-31 17:24:50.352.791|WARN |test1[2]|3078186720|main.cpp:41|Warning message
+2017-08-31 17:24:50.352.801|FATAL|test1[2]|3078186720|main.cpp:42|fatal message
+2017-08-31 17:24:50.352.831|INFO |test2[2]|3078186720|main.cpp:54|Info message
+2017-08-31 17:24:50.352.844|DEBUG|test2[2]|3078186720|main.cpp:55|Debug message
+2017-08-31 17:24:50.352.855|TRACE|test2[2]|3078186720|main.cpp:56|Trace message
+2017-08-31 17:24:50.352.865|ERROR|test2[2]|3078186720|main.cpp:57|Error message
+2017-08-31 17:24:50.352.875|WARN |test2[2]|3078186720|main.cpp:58|Warning message
+2017-08-31 17:24:50.352.885|FATAL|test2[2]|3078186720|main.cpp:59|fatal message
+2017-08-31 17:24:50.354.943|INFO |test[2]|3077768928|main.cpp:74|Info message
+2017-08-31 17:24:50.355.070|DEBUG|test[2]|3077768928|main.cpp:75|Debug message
+2017-08-31 17:24:50.355.089|TRACE|test[2]|3077768928|main.cpp:76|Trace message
+2017-08-31 17:24:50.355.099|ERROR|test[2]|3077768928|main.cpp:77|Error message
+2017-08-31 17:24:50.355.108|WARN |test[2]|3077768928|main.cpp:78|Warning message
+2017-08-31 17:24:50.355.117|FATAL|test[2]|3077768928|main.cpp:79|fatal message
+2017-08-31 17:24:50.355.149|INFO |test1[2]|3077768928|main.cpp:37|Info message
+2017-08-31 17:24:50.355.163|DEBUG|test1[2]|3077768928|main.cpp:38|Debug message
+2017-08-31 17:24:50.355.178|TRACE|test1[2]|3077768928|main.cpp:39|Trace message
+2017-08-31 17:24:50.355.188|ERROR|test1[2]|3077768928|main.cpp:40|Error message
+2017-08-31 17:24:50.355.197|WARN |test1[2]|3077768928|main.cpp:41|Warning message
+2017-08-31 17:24:50.355.207|FATAL|test1[2]|3077768928|main.cpp:42|fatal message
+2017-08-31 17:24:50.355.235|INFO |test2[2]|3077768928|main.cpp:54|Info message
+2017-08-31 17:24:50.355.250|DEBUG|test2[2]|3077768928|main.cpp:55|Debug message
+2017-08-31 17:24:50.355.260|TRACE|test2[2]|3077768928|main.cpp:56|Trace message
+2017-08-31 17:24:50.355.269|ERROR|test2[2]|3077768928|main.cpp:57|Error message
+2017-08-31 17:24:50.355.278|WARN |test2[2]|3077768928|main.cpp:58|Warning message
+2017-08-31 17:24:50.355.287|FATAL|test2[2]|3077768928|main.cpp:59|fatal message
+2017-08-31 17:24:50.357.305|INFO |test[2]|3078149856|main.cpp:74|Info message
+2017-08-31 17:24:50.357.461|DEBUG|test[2]|3078149856|main.cpp:75|Debug message
+2017-08-31 17:24:50.357.482|TRACE|test[2]|3078149856|main.cpp:76|Trace message
+2017-08-31 17:24:50.357.494|ERROR|test[2]|3078149856|main.cpp:77|Error message
+2017-08-31 17:24:50.357.513|WARN |test[2]|3078149856|main.cpp:78|Warning message
+2017-08-31 17:24:50.357.523|FATAL|test[2]|3078149856|main.cpp:79|fatal message
+2017-08-31 17:24:50.357.577|INFO |test1[2]|3078149856|main.cpp:37|Info message
+2017-08-31 17:24:50.357.593|DEBUG|test1[2]|3078149856|main.cpp:38|Debug message
+2017-08-31 17:24:50.357.613|TRACE|test1[2]|3078149856|main.cpp:39|Trace message
+2017-08-31 17:24:50.357.622|ERROR|test1[2]|3078149856|main.cpp:40|Error message
+2017-08-31 17:24:50.357.632|WARN |test1[2]|3078149856|main.cpp:41|Warning message
+2017-08-31 17:24:50.357.641|FATAL|test1[2]|3078149856|main.cpp:42|fatal message
+2017-08-31 17:24:50.357.669|INFO |test2[2]|3078149856|main.cpp:54|Info message
+2017-08-31 17:24:50.357.682|DEBUG|test2[2]|3078149856|main.cpp:55|Debug message
+2017-08-31 17:24:50.357.692|TRACE|test2[2]|3078149856|main.cpp:56|Trace message
+2017-08-31 17:24:50.357.702|ERROR|test2[2]|3078149856|main.cpp:57|Error message
+2017-08-31 17:24:50.357.711|WARN |test2[2]|3078149856|main.cpp:58|Warning message
+2017-08-31 17:24:50.357.721|FATAL|test2[2]|3078149856|main.cpp:59|fatal message
+2017-08-31 17:24:50.359.695|INFO |test[2]|3077457632|main.cpp:74|Info message
+2017-08-31 17:24:50.359.831|DEBUG|test[2]|3077457632|main.cpp:75|Debug message
+2017-08-31 17:24:50.359.850|TRACE|test[2]|3077457632|main.cpp:76|Trace message
+2017-08-31 17:24:50.359.860|ERROR|test[2]|3077457632|main.cpp:77|Error message
+2017-08-31 17:24:50.359.870|WARN |test[2]|3077457632|main.cpp:78|Warning message
+2017-08-31 17:24:50.359.880|FATAL|test[2]|3077457632|main.cpp:79|fatal message
+2017-08-31 17:24:50.359.912|INFO |test1[2]|3077457632|main.cpp:37|Info message
+2017-08-31 17:24:50.359.927|DEBUG|test1[2]|3077457632|main.cpp:38|Debug message
+2017-08-31 17:24:50.359.937|TRACE|test1[2]|3077457632|main.cpp:39|Trace message
+2017-08-31 17:24:50.359.946|ERROR|test1[2]|3077457632|main.cpp:40|Error message
+2017-08-31 17:24:50.359.956|WARN |test1[2]|3077457632|main.cpp:41|Warning message
+2017-08-31 17:24:50.359.965|FATAL|test1[2]|3077457632|main.cpp:42|fatal message
+2017-08-31 17:24:50.360.012|INFO |test2[2]|3077457632|main.cpp:54|Info message
+2017-08-31 17:24:50.360.047|DEBUG|test2[2]|3077457632|main.cpp:55|Debug message
+2017-08-31 17:24:50.360.063|TRACE|test2[2]|3077457632|main.cpp:56|Trace message
+2017-08-31 17:24:50.360.075|ERROR|test2[2]|3077457632|main.cpp:57|Error message
+2017-08-31 17:24:50.360.088|WARN |test2[2]|3077457632|main.cpp:58|Warning message
+2017-08-31 17:24:50.360.101|FATAL|test2[2]|3077457632|main.cpp:59|fatal message
+2017-08-31 17:24:50.362.704|INFO |test[2]|3078153952|main.cpp:74|Info message
+2017-08-31 17:24:50.362.844|DEBUG|test[2]|3078153952|main.cpp:75|Debug message
+2017-08-31 17:24:50.362.863|TRACE|test[2]|3078153952|main.cpp:76|Trace message
+2017-08-31 17:24:50.362.874|ERROR|test[2]|3078153952|main.cpp:77|Error message
+2017-08-31 17:24:50.362.884|WARN |test[2]|3078153952|main.cpp:78|Warning message
+2017-08-31 17:24:50.362.899|FATAL|test[2]|3078153952|main.cpp:79|fatal message
+2017-08-31 17:24:50.362.935|INFO |test1[2]|3078153952|main.cpp:37|Info message
+2017-08-31 17:24:50.362.949|DEBUG|test1[2]|3078153952|main.cpp:38|Debug message
+2017-08-31 17:24:50.362.959|TRACE|test1[2]|3078153952|main.cpp:39|Trace message
+2017-08-31 17:24:50.362.969|ERROR|test1[2]|3078153952|main.cpp:40|Error message
+2017-08-31 17:24:50.362.979|WARN |test1[2]|3078153952|main.cpp:41|Warning message
+2017-08-31 17:24:50.362.989|FATAL|test1[2]|3078153952|main.cpp:42|fatal message
+2017-08-31 17:24:50.363.019|INFO |test2[2]|3078153952|main.cpp:54|Info message
+2017-08-31 17:24:50.363.033|DEBUG|test2[2]|3078153952|main.cpp:55|Debug message
+2017-08-31 17:24:50.363.043|TRACE|test2[2]|3078153952|main.cpp:56|Trace message
+2017-08-31 17:24:50.363.053|ERROR|test2[2]|3078153952|main.cpp:57|Error message
+2017-08-31 17:24:50.363.062|WARN |test2[2]|3078153952|main.cpp:58|Warning message
+2017-08-31 17:24:50.363.072|FATAL|test2[2]|3078153952|main.cpp:59|fatal message
+2017-08-31 17:24:50.365.240|INFO |test[2]|3077527264|main.cpp:74|Info message
+2017-08-31 17:24:50.365.387|DEBUG|test[2]|3077527264|main.cpp:75|Debug message
+2017-08-31 17:24:50.365.409|TRACE|test[2]|3077527264|main.cpp:76|Trace message
+2017-08-31 17:24:50.365.420|ERROR|test[2]|3077527264|main.cpp:77|Error message
+2017-08-31 17:24:50.365.430|WARN |test[2]|3077527264|main.cpp:78|Warning message
+2017-08-31 17:24:50.365.440|FATAL|test[2]|3077527264|main.cpp:79|fatal message
+2017-08-31 17:24:50.365.475|INFO |test1[2]|3077527264|main.cpp:37|Info message
+2017-08-31 17:24:50.365.490|DEBUG|test1[2]|3077527264|main.cpp:38|Debug message
+2017-08-31 17:24:50.365.500|TRACE|test1[2]|3077527264|main.cpp:39|Trace message
+2017-08-31 17:24:50.365.510|ERROR|test1[2]|3077527264|main.cpp:40|Error message
+2017-08-31 17:24:50.365.520|WARN |test1[2]|3077527264|main.cpp:41|Warning message
+2017-08-31 17:24:50.365.529|FATAL|test1[2]|3077527264|main.cpp:42|fatal message
+2017-08-31 17:24:50.365.575|INFO |test2[2]|3077527264|main.cpp:54|Info message
+2017-08-31 17:24:50.365.589|DEBUG|test2[2]|3077527264|main.cpp:55|Debug message
+2017-08-31 17:24:50.365.600|TRACE|test2[2]|3077527264|main.cpp:56|Trace message
+2017-08-31 17:24:50.365.609|ERROR|test2[2]|3077527264|main.cpp:57|Error message
+2017-08-31 17:24:50.365.619|WARN |test2[2]|3077527264|main.cpp:58|Warning message
+2017-08-31 17:24:50.365.630|FATAL|test2[2]|3077527264|main.cpp:59|fatal message
+2017-08-31 17:24:50.367.697|INFO |test[2]|3078407904|main.cpp:74|Info message
+2017-08-31 17:24:50.367.833|DEBUG|test[2]|3078407904|main.cpp:75|Debug message
+2017-08-31 17:24:50.367.854|TRACE|test[2]|3078407904|main.cpp:76|Trace message
+2017-08-31 17:24:50.367.865|ERROR|test[2]|3078407904|main.cpp:77|Error message
+2017-08-31 17:24:50.367.875|WARN |test[2]|3078407904|main.cpp:78|Warning message
+2017-08-31 17:24:50.367.885|FATAL|test[2]|3078407904|main.cpp:79|fatal message
+2017-08-31 17:24:50.367.918|INFO |test1[2]|3078407904|main.cpp:37|Info message
+2017-08-31 17:24:50.367.932|DEBUG|test1[2]|3078407904|main.cpp:38|Debug message
+2017-08-31 17:24:50.367.942|TRACE|test1[2]|3078407904|main.cpp:39|Trace message
+2017-08-31 17:24:50.367.952|ERROR|test1[2]|3078407904|main.cpp:40|Error message
+2017-08-31 17:24:50.367.962|WARN |test1[2]|3078407904|main.cpp:41|Warning message
+2017-08-31 17:24:50.367.972|FATAL|test1[2]|3078407904|main.cpp:42|fatal message
+2017-08-31 17:24:50.368.001|INFO |test2[2]|3078407904|main.cpp:54|Info message
+2017-08-31 17:24:50.368.015|DEBUG|test2[2]|3078407904|main.cpp:55|Debug message
+2017-08-31 17:24:50.368.025|TRACE|test2[2]|3078407904|main.cpp:56|Trace message
+2017-08-31 17:24:50.368.035|ERROR|test2[2]|3078407904|main.cpp:57|Error message
+2017-08-31 17:24:50.368.045|WARN |test2[2]|3078407904|main.cpp:58|Warning message
+2017-08-31 17:24:50.368.055|FATAL|test2[2]|3078407904|main.cpp:59|fatal message
+2017-08-31 17:24:50.370.134|INFO |test[2]|3077576416|main.cpp:74|Info message
+2017-08-31 17:24:50.370.301|DEBUG|test[2]|3077576416|main.cpp:75|Debug message
+2017-08-31 17:24:50.370.333|TRACE|test[2]|3077576416|main.cpp:76|Trace message
+2017-08-31 17:24:50.370.349|ERROR|test[2]|3077576416|main.cpp:77|Error message
+2017-08-31 17:24:50.370.361|WARN |test[2]|3077576416|main.cpp:78|Warning message
+2017-08-31 17:24:50.370.374|FATAL|test[2]|3077576416|main.cpp:79|fatal message
+2017-08-31 17:24:50.370.418|INFO |test1[2]|3077576416|main.cpp:37|Info message
+2017-08-31 17:24:50.370.436|DEBUG|test1[2]|3077576416|main.cpp:38|Debug message
+2017-08-31 17:24:50.370.449|TRACE|test1[2]|3077576416|main.cpp:39|Trace message
+2017-08-31 17:24:50.370.462|ERROR|test1[2]|3077576416|main.cpp:40|Error message
+2017-08-31 17:24:50.370.475|WARN |test1[2]|3077576416|main.cpp:41|Warning message
+2017-08-31 17:24:50.370.488|FATAL|test1[2]|3077576416|main.cpp:42|fatal message
+2017-08-31 17:24:50.370.526|INFO |test2[2]|3077576416|main.cpp:54|Info message
+2017-08-31 17:24:50.370.579|DEBUG|test2[2]|3077576416|main.cpp:55|Debug message
+2017-08-31 17:24:50.370.595|TRACE|test2[2]|3077576416|main.cpp:56|Trace message
+2017-08-31 17:24:50.370.608|ERROR|test2[2]|3077576416|main.cpp:57|Error message
+2017-08-31 17:24:50.370.621|WARN |test2[2]|3077576416|main.cpp:58|Warning message
+2017-08-31 17:24:50.370.633|FATAL|test2[2]|3077576416|main.cpp:59|fatal message
+2017-08-31 17:24:50.372.975|INFO |test[2]|3077654240|main.cpp:74|Info message
+2017-08-31 17:24:50.373.111|DEBUG|test[2]|3077654240|main.cpp:75|Debug message
+2017-08-31 17:24:50.373.132|TRACE|test[2]|3077654240|main.cpp:76|Trace message
+2017-08-31 17:24:50.373.143|ERROR|test[2]|3077654240|main.cpp:77|Error message
+2017-08-31 17:24:50.373.153|WARN |test[2]|3077654240|main.cpp:78|Warning message
+2017-08-31 17:24:50.373.163|FATAL|test[2]|3077654240|main.cpp:79|fatal message
+2017-08-31 17:24:50.373.196|INFO |test1[2]|3077654240|main.cpp:37|Info message
+2017-08-31 17:24:50.373.210|DEBUG|test1[2]|3077654240|main.cpp:38|Debug message
+2017-08-31 17:24:50.373.221|TRACE|test1[2]|3077654240|main.cpp:39|Trace message
+2017-08-31 17:24:50.373.231|ERROR|test1[2]|3077654240|main.cpp:40|Error message
+2017-08-31 17:24:50.373.240|WARN |test1[2]|3077654240|main.cpp:41|Warning message
+2017-08-31 17:24:50.373.250|FATAL|test1[2]|3077654240|main.cpp:42|fatal message
+2017-08-31 17:24:50.373.279|INFO |test2[2]|3077654240|main.cpp:54|Info message
+2017-08-31 17:24:50.373.291|DEBUG|test2[2]|3077654240|main.cpp:55|Debug message
+2017-08-31 17:24:50.373.301|TRACE|test2[2]|3077654240|main.cpp:56|Trace message
+2017-08-31 17:24:50.373.311|ERROR|test2[2]|3077654240|main.cpp:57|Error message
+2017-08-31 17:24:50.373.321|WARN |test2[2]|3077654240|main.cpp:58|Warning message
+2017-08-31 17:24:50.373.331|FATAL|test2[2]|3077654240|main.cpp:59|fatal message
+2017-08-31 17:24:50.375.344|INFO |test[2]|3077437152|main.cpp:74|Info message
+2017-08-31 17:24:50.375.489|DEBUG|test[2]|3077437152|main.cpp:75|Debug message
+2017-08-31 17:24:50.375.510|TRACE|test[2]|3077437152|main.cpp:76|Trace message
+2017-08-31 17:24:50.375.522|ERROR|test[2]|3077437152|main.cpp:77|Error message
+2017-08-31 17:24:50.375.532|WARN |test[2]|3077437152|main.cpp:78|Warning message
+2017-08-31 17:24:50.375.564|FATAL|test[2]|3077437152|main.cpp:79|fatal message
+2017-08-31 17:24:50.375.627|INFO |test1[2]|3077437152|main.cpp:37|Info message
+2017-08-31 17:24:50.375.643|DEBUG|test1[2]|3077437152|main.cpp:38|Debug message
+2017-08-31 17:24:50.375.653|TRACE|test1[2]|3077437152|main.cpp:39|Trace message
+2017-08-31 17:24:50.375.663|ERROR|test1[2]|3077437152|main.cpp:40|Error message
+2017-08-31 17:24:50.375.673|WARN |test1[2]|3077437152|main.cpp:41|Warning message
+2017-08-31 17:24:50.375.683|FATAL|test1[2]|3077437152|main.cpp:42|fatal message
+2017-08-31 17:24:50.375.713|INFO |test2[2]|3077437152|main.cpp:54|Info message
+2017-08-31 17:24:50.375.731|DEBUG|test2[2]|3077437152|main.cpp:55|Debug message
+2017-08-31 17:24:50.375.742|TRACE|test2[2]|3077437152|main.cpp:56|Trace message
+2017-08-31 17:24:50.375.752|ERROR|test2[2]|3077437152|main.cpp:57|Error message
+2017-08-31 17:24:50.375.762|WARN |test2[2]|3077437152|main.cpp:58|Warning message
+2017-08-31 17:24:50.375.772|FATAL|test2[2]|3077437152|main.cpp:59|fatal message
+2017-08-31 17:24:50.377.976|INFO |test[2]|3077699296|main.cpp:74|Info message
+2017-08-31 17:24:50.378.115|DEBUG|test[2]|3077699296|main.cpp:75|Debug message
+2017-08-31 17:24:50.378.134|TRACE|test[2]|3077699296|main.cpp:76|Trace message
+2017-08-31 17:24:50.378.145|ERROR|test[2]|3077699296|main.cpp:77|Error message
+2017-08-31 17:24:50.378.155|WARN |test[2]|3077699296|main.cpp:78|Warning message
+2017-08-31 17:24:50.378.165|FATAL|test[2]|3077699296|main.cpp:79|fatal message
+2017-08-31 17:24:50.378.199|INFO |test1[2]|3077699296|main.cpp:37|Info message
+2017-08-31 17:24:50.378.213|DEBUG|test1[2]|3077699296|main.cpp:38|Debug message
+2017-08-31 17:24:50.378.223|TRACE|test1[2]|3077699296|main.cpp:39|Trace message
+2017-08-31 17:24:50.378.234|ERROR|test1[2]|3077699296|main.cpp:40|Error message
+2017-08-31 17:24:50.378.244|WARN |test1[2]|3077699296|main.cpp:41|Warning message
+2017-08-31 17:24:50.378.253|FATAL|test1[2]|3077699296|main.cpp:42|fatal message
+2017-08-31 17:24:50.378.283|INFO |test2[2]|3077699296|main.cpp:54|Info message
+2017-08-31 17:24:50.378.296|DEBUG|test2[2]|3077699296|main.cpp:55|Debug message
+2017-08-31 17:24:50.378.307|TRACE|test2[2]|3077699296|main.cpp:56|Trace message
+2017-08-31 17:24:50.378.317|ERROR|test2[2]|3077699296|main.cpp:57|Error message
+2017-08-31 17:24:50.378.327|WARN |test2[2]|3077699296|main.cpp:58|Warning message
+2017-08-31 17:24:50.378.337|FATAL|test2[2]|3077699296|main.cpp:59|fatal message
+2017-08-31 17:24:50.380.988|INFO |test[2]|3077600992|main.cpp:74|Info message
+2017-08-31 17:24:50.381.116|DEBUG|test[2]|3077600992|main.cpp:75|Debug message
+2017-08-31 17:24:50.381.135|TRACE|test[2]|3077600992|main.cpp:76|Trace message
+2017-08-31 17:24:50.381.145|ERROR|test[2]|3077600992|main.cpp:77|Error message
+2017-08-31 17:24:50.381.155|WARN |test[2]|3077600992|main.cpp:78|Warning message
+2017-08-31 17:24:50.381.164|FATAL|test[2]|3077600992|main.cpp:79|fatal message
+2017-08-31 17:24:50.381.195|INFO |test1[2]|3077600992|main.cpp:37|Info message
+2017-08-31 17:24:50.381.209|DEBUG|test1[2]|3077600992|main.cpp:38|Debug message
+2017-08-31 17:24:50.381.219|TRACE|test1[2]|3077600992|main.cpp:39|Trace message
+2017-08-31 17:24:50.381.229|ERROR|test1[2]|3077600992|main.cpp:40|Error message
+2017-08-31 17:24:50.381.238|WARN |test1[2]|3077600992|main.cpp:41|Warning message
+2017-08-31 17:24:50.381.247|FATAL|test1[2]|3077600992|main.cpp:42|fatal message
+2017-08-31 17:24:50.381.275|INFO |test2[2]|3077600992|main.cpp:54|Info message
+2017-08-31 17:24:50.381.288|DEBUG|test2[2]|3077600992|main.cpp:55|Debug message
+2017-08-31 17:24:50.381.298|TRACE|test2[2]|3077600992|main.cpp:56|Trace message
+2017-08-31 17:24:50.381.308|ERROR|test2[2]|3077600992|main.cpp:57|Error message
+2017-08-31 17:24:50.381.317|WARN |test2[2]|3077600992|main.cpp:58|Warning message
+2017-08-31 17:24:50.381.327|FATAL|test2[2]|3077600992|main.cpp:59|fatal message
+2017-08-31 17:24:50.383.366|INFO |test[2]|3078264544|main.cpp:74|Info message
+2017-08-31 17:24:50.383.514|DEBUG|test[2]|3078264544|main.cpp:75|Debug message
+2017-08-31 17:24:50.383.535|TRACE|test[2]|3078264544|main.cpp:76|Trace message
+2017-08-31 17:24:50.383.568|ERROR|test[2]|3078264544|main.cpp:77|Error message
+2017-08-31 17:24:50.383.580|WARN |test[2]|3078264544|main.cpp:78|Warning message
+2017-08-31 17:24:50.383.590|FATAL|test[2]|3078264544|main.cpp:79|fatal message
+2017-08-31 17:24:50.383.633|INFO |test1[2]|3078264544|main.cpp:37|Info message
+2017-08-31 17:24:50.383.647|DEBUG|test1[2]|3078264544|main.cpp:38|Debug message
+2017-08-31 17:24:50.383.657|TRACE|test1[2]|3078264544|main.cpp:39|Trace message
+2017-08-31 17:24:50.383.667|ERROR|test1[2]|3078264544|main.cpp:40|Error message
+2017-08-31 17:24:50.383.677|WARN |test1[2]|3078264544|main.cpp:41|Warning message
+2017-08-31 17:24:50.383.686|FATAL|test1[2]|3078264544|main.cpp:42|fatal message
+2017-08-31 17:24:50.383.715|INFO |test2[2]|3078264544|main.cpp:54|Info message
+2017-08-31 17:24:50.383.728|DEBUG|test2[2]|3078264544|main.cpp:55|Debug message
+2017-08-31 17:24:50.383.738|TRACE|test2[2]|3078264544|main.cpp:56|Trace message
+2017-08-31 17:24:50.383.753|ERROR|test2[2]|3078264544|main.cpp:57|Error message
+2017-08-31 17:24:50.383.763|WARN |test2[2]|3078264544|main.cpp:58|Warning message
+2017-08-31 17:24:50.383.773|FATAL|test2[2]|3078264544|main.cpp:59|fatal message
+2017-08-31 17:24:50.385.791|INFO |test[2]|3078276832|main.cpp:74|Info message
+2017-08-31 17:24:50.385.917|DEBUG|test[2]|3078276832|main.cpp:75|Debug message
+2017-08-31 17:24:50.385.935|TRACE|test[2]|3078276832|main.cpp:76|Trace message
+2017-08-31 17:24:50.385.945|ERROR|test[2]|3078276832|main.cpp:77|Error message
+2017-08-31 17:24:50.385.955|WARN |test[2]|3078276832|main.cpp:78|Warning message
+2017-08-31 17:24:50.385.964|FATAL|test[2]|3078276832|main.cpp:79|fatal message
+2017-08-31 17:24:50.385.995|INFO |test1[2]|3078276832|main.cpp:37|Info message
+2017-08-31 17:24:50.386.008|DEBUG|test1[2]|3078276832|main.cpp:38|Debug message
+2017-08-31 17:24:50.386.018|TRACE|test1[2]|3078276832|main.cpp:39|Trace message
+2017-08-31 17:24:50.386.027|ERROR|test1[2]|3078276832|main.cpp:40|Error message
+2017-08-31 17:24:50.386.036|WARN |test1[2]|3078276832|main.cpp:41|Warning message
+2017-08-31 17:24:50.386.045|FATAL|test1[2]|3078276832|main.cpp:42|fatal message
+2017-08-31 17:24:50.386.072|INFO |test2[2]|3078276832|main.cpp:54|Info message
+2017-08-31 17:24:50.386.084|DEBUG|test2[2]|3078276832|main.cpp:55|Debug message
+2017-08-31 17:24:50.386.094|TRACE|test2[2]|3078276832|main.cpp:56|Trace message
+2017-08-31 17:24:50.386.103|ERROR|test2[2]|3078276832|main.cpp:57|Error message
+2017-08-31 17:24:50.386.112|WARN |test2[2]|3078276832|main.cpp:58|Warning message
+2017-08-31 17:24:50.386.121|FATAL|test2[2]|3078276832|main.cpp:59|fatal message
+2017-08-31 17:24:50.388.162|INFO |test[2]|3078461152|main.cpp:74|Info message
+2017-08-31 17:24:50.388.287|DEBUG|test[2]|3078461152|main.cpp:75|Debug message
+2017-08-31 17:24:50.388.306|TRACE|test[2]|3078461152|main.cpp:76|Trace message
+2017-08-31 17:24:50.388.316|ERROR|test[2]|3078461152|main.cpp:77|Error message
+2017-08-31 17:24:50.388.326|WARN |test[2]|3078461152|main.cpp:78|Warning message
+2017-08-31 17:24:50.388.335|FATAL|test[2]|3078461152|main.cpp:79|fatal message
+2017-08-31 17:24:50.388.366|INFO |test1[2]|3078461152|main.cpp:37|Info message
+2017-08-31 17:24:50.388.380|DEBUG|test1[2]|3078461152|main.cpp:38|Debug message
+2017-08-31 17:24:50.388.389|TRACE|test1[2]|3078461152|main.cpp:39|Trace message
+2017-08-31 17:24:50.388.398|ERROR|test1[2]|3078461152|main.cpp:40|Error message
+2017-08-31 17:24:50.388.407|WARN |test1[2]|3078461152|main.cpp:41|Warning message
+2017-08-31 17:24:50.388.416|FATAL|test1[2]|3078461152|main.cpp:42|fatal message
+2017-08-31 17:24:50.388.444|INFO |test2[2]|3078461152|main.cpp:54|Info message
+2017-08-31 17:24:50.388.457|DEBUG|test2[2]|3078461152|main.cpp:55|Debug message
+2017-08-31 17:24:50.388.467|TRACE|test2[2]|3078461152|main.cpp:56|Trace message
+2017-08-31 17:24:50.388.476|ERROR|test2[2]|3078461152|main.cpp:57|Error message
+2017-08-31 17:24:50.388.485|WARN |test2[2]|3078461152|main.cpp:58|Warning message
+2017-08-31 17:24:50.388.494|FATAL|test2[2]|3078461152|main.cpp:59|fatal message
+2017-08-31 17:24:50.390.683|INFO |test[2]|3077494496|main.cpp:74|Info message
+2017-08-31 17:24:50.390.829|DEBUG|test[2]|3077494496|main.cpp:75|Debug message
+2017-08-31 17:24:50.390.848|TRACE|test[2]|3077494496|main.cpp:76|Trace message
+2017-08-31 17:24:50.390.859|ERROR|test[2]|3077494496|main.cpp:77|Error message
+2017-08-31 17:24:50.390.869|WARN |test[2]|3077494496|main.cpp:78|Warning message
+2017-08-31 17:24:50.390.879|FATAL|test[2]|3077494496|main.cpp:79|fatal message
+2017-08-31 17:24:50.390.912|INFO |test1[2]|3077494496|main.cpp:37|Info message
+2017-08-31 17:24:50.390.926|DEBUG|test1[2]|3077494496|main.cpp:38|Debug message
+2017-08-31 17:24:50.390.936|TRACE|test1[2]|3077494496|main.cpp:39|Trace message
+2017-08-31 17:24:50.390.946|ERROR|test1[2]|3077494496|main.cpp:40|Error message
+2017-08-31 17:24:50.390.956|WARN |test1[2]|3077494496|main.cpp:41|Warning message
+2017-08-31 17:24:50.390.966|FATAL|test1[2]|3077494496|main.cpp:42|fatal message
+2017-08-31 17:24:50.391.004|INFO |test2[2]|3077494496|main.cpp:54|Info message
+2017-08-31 17:24:50.391.017|DEBUG|test2[2]|3077494496|main.cpp:55|Debug message
+2017-08-31 17:24:50.391.027|TRACE|test2[2]|3077494496|main.cpp:56|Trace message
+2017-08-31 17:24:50.391.038|ERROR|test2[2]|3077494496|main.cpp:57|Error message
+2017-08-31 17:24:50.391.048|WARN |test2[2]|3077494496|main.cpp:58|Warning message
+2017-08-31 17:24:50.391.057|FATAL|test2[2]|3077494496|main.cpp:59|fatal message
+2017-08-31 17:24:50.393.207|INFO |test[2]|3077785312|main.cpp:74|Info message
+2017-08-31 17:24:50.393.344|DEBUG|test[2]|3077785312|main.cpp:75|Debug message
+2017-08-31 17:24:50.393.365|TRACE|test[2]|3077785312|main.cpp:76|Trace message
+2017-08-31 17:24:50.393.375|ERROR|test[2]|3077785312|main.cpp:77|Error message
+2017-08-31 17:24:50.393.385|WARN |test[2]|3077785312|main.cpp:78|Warning message
+2017-08-31 17:24:50.393.394|FATAL|test[2]|3077785312|main.cpp:79|fatal message
+2017-08-31 17:24:50.393.427|INFO |test1[2]|3077785312|main.cpp:37|Info message
+2017-08-31 17:24:50.393.441|DEBUG|test1[2]|3077785312|main.cpp:38|Debug message
+2017-08-31 17:24:50.393.450|TRACE|test1[2]|3077785312|main.cpp:39|Trace message
+2017-08-31 17:24:50.393.460|ERROR|test1[2]|3077785312|main.cpp:40|Error message
+2017-08-31 17:24:50.393.469|WARN |test1[2]|3077785312|main.cpp:41|Warning message
+2017-08-31 17:24:50.393.478|FATAL|test1[2]|3077785312|main.cpp:42|fatal message
+2017-08-31 17:24:50.393.507|INFO |test2[2]|3077785312|main.cpp:54|Info message
+2017-08-31 17:24:50.393.520|DEBUG|test2[2]|3077785312|main.cpp:55|Debug message
+2017-08-31 17:24:50.393.529|TRACE|test2[2]|3077785312|main.cpp:56|Trace message
+2017-08-31 17:24:50.393.538|ERROR|test2[2]|3077785312|main.cpp:57|Error message
+2017-08-31 17:24:50.393.582|WARN |test2[2]|3077785312|main.cpp:58|Warning message
+2017-08-31 17:24:50.393.594|FATAL|test2[2]|3077785312|main.cpp:59|fatal message
+2017-08-31 17:24:50.395.720|INFO |test[2]|3077617376|main.cpp:74|Info message
+2017-08-31 17:24:50.395.860|DEBUG|test[2]|3077617376|main.cpp:75|Debug message
+2017-08-31 17:24:50.395.880|TRACE|test[2]|3077617376|main.cpp:76|Trace message
+2017-08-31 17:24:50.395.890|ERROR|test[2]|3077617376|main.cpp:77|Error message
+2017-08-31 17:24:50.395.900|WARN |test[2]|3077617376|main.cpp:78|Warning message
+2017-08-31 17:24:50.395.910|FATAL|test[2]|3077617376|main.cpp:79|fatal message
+2017-08-31 17:24:50.395.943|INFO |test1[2]|3077617376|main.cpp:37|Info message
+2017-08-31 17:24:50.395.957|DEBUG|test1[2]|3077617376|main.cpp:38|Debug message
+2017-08-31 17:24:50.395.968|TRACE|test1[2]|3077617376|main.cpp:39|Trace message
+2017-08-31 17:24:50.395.978|ERROR|test1[2]|3077617376|main.cpp:40|Error message
+2017-08-31 17:24:50.395.987|WARN |test1[2]|3077617376|main.cpp:41|Warning message
+2017-08-31 17:24:50.395.997|FATAL|test1[2]|3077617376|main.cpp:42|fatal message
+2017-08-31 17:24:50.396.026|INFO |test2[2]|3077617376|main.cpp:54|Info message
+2017-08-31 17:24:50.396.039|DEBUG|test2[2]|3077617376|main.cpp:55|Debug message
+2017-08-31 17:24:50.396.049|TRACE|test2[2]|3077617376|main.cpp:56|Trace message
+2017-08-31 17:24:50.396.059|ERROR|test2[2]|3077617376|main.cpp:57|Error message
+2017-08-31 17:24:50.396.069|WARN |test2[2]|3077617376|main.cpp:58|Warning message
+2017-08-31 17:24:50.396.078|FATAL|test2[2]|3077617376|main.cpp:59|fatal message
+2017-08-31 17:24:50.398.075|INFO |test[2]|3077871328|main.cpp:74|Info message
+2017-08-31 17:24:50.398.200|DEBUG|test[2]|3077871328|main.cpp:75|Debug message
+2017-08-31 17:24:50.398.218|TRACE|test[2]|3077871328|main.cpp:76|Trace message
+2017-08-31 17:24:50.398.229|ERROR|test[2]|3077871328|main.cpp:77|Error message
+2017-08-31 17:24:50.398.238|WARN |test[2]|3077871328|main.cpp:78|Warning message
+2017-08-31 17:24:50.398.248|FATAL|test[2]|3077871328|main.cpp:79|fatal message
+2017-08-31 17:24:50.398.278|INFO |test1[2]|3077871328|main.cpp:37|Info message
+2017-08-31 17:24:50.398.291|DEBUG|test1[2]|3077871328|main.cpp:38|Debug message
+2017-08-31 17:24:50.398.301|TRACE|test1[2]|3077871328|main.cpp:39|Trace message
+2017-08-31 17:24:50.398.311|ERROR|test1[2]|3077871328|main.cpp:40|Error message
+2017-08-31 17:24:50.398.326|WARN |test1[2]|3077871328|main.cpp:41|Warning message
+2017-08-31 17:24:50.398.336|FATAL|test1[2]|3077871328|main.cpp:42|fatal message
+2017-08-31 17:24:50.398.363|INFO |test2[2]|3077871328|main.cpp:54|Info message
+2017-08-31 17:24:50.398.376|DEBUG|test2[2]|3077871328|main.cpp:55|Debug message
+2017-08-31 17:24:50.398.385|TRACE|test2[2]|3077871328|main.cpp:56|Trace message
+2017-08-31 17:24:50.398.395|ERROR|test2[2]|3077871328|main.cpp:57|Error message
+2017-08-31 17:24:50.398.404|WARN |test2[2]|3077871328|main.cpp:58|Warning message
+2017-08-31 17:24:50.398.413|FATAL|test2[2]|3077871328|main.cpp:59|fatal message
+2017-08-31 17:24:50.400.407|INFO |test[2]|3077875424|main.cpp:74|Info message
+2017-08-31 17:24:50.400.585|DEBUG|test[2]|3077875424|main.cpp:75|Debug message
+2017-08-31 17:24:50.400.607|TRACE|test[2]|3077875424|main.cpp:76|Trace message
+2017-08-31 17:24:50.400.618|ERROR|test[2]|3077875424|main.cpp:77|Error message
+2017-08-31 17:24:50.400.628|WARN |test[2]|3077875424|main.cpp:78|Warning message
+2017-08-31 17:24:50.400.639|FATAL|test[2]|3077875424|main.cpp:79|fatal message
+2017-08-31 17:24:50.400.683|INFO |test1[2]|3077875424|main.cpp:37|Info message
+2017-08-31 17:24:50.400.696|DEBUG|test1[2]|3077875424|main.cpp:38|Debug message
+2017-08-31 17:24:50.400.705|TRACE|test1[2]|3077875424|main.cpp:39|Trace message
+2017-08-31 17:24:50.400.714|ERROR|test1[2]|3077875424|main.cpp:40|Error message
+2017-08-31 17:24:50.400.724|WARN |test1[2]|3077875424|main.cpp:41|Warning message
+2017-08-31 17:24:50.400.733|FATAL|test1[2]|3077875424|main.cpp:42|fatal message
+2017-08-31 17:24:50.400.760|INFO |test2[2]|3077875424|main.cpp:54|Info message
+2017-08-31 17:24:50.400.772|DEBUG|test2[2]|3077875424|main.cpp:55|Debug message
+2017-08-31 17:24:50.400.782|TRACE|test2[2]|3077875424|main.cpp:56|Trace message
+2017-08-31 17:24:50.400.791|ERROR|test2[2]|3077875424|main.cpp:57|Error message
+2017-08-31 17:24:50.400.800|WARN |test2[2]|3077875424|main.cpp:58|Warning message
+2017-08-31 17:24:50.400.809|FATAL|test2[2]|3077875424|main.cpp:59|fatal message
+2017-08-31 17:24:50.402.887|INFO |test[2]|3078063840|main.cpp:74|Info message
+2017-08-31 17:24:50.403.014|DEBUG|test[2]|3078063840|main.cpp:75|Debug message
+2017-08-31 17:24:50.403.032|TRACE|test[2]|3078063840|main.cpp:76|Trace message
+2017-08-31 17:24:50.403.043|ERROR|test[2]|3078063840|main.cpp:77|Error message
+2017-08-31 17:24:50.403.052|WARN |test[2]|3078063840|main.cpp:78|Warning message
+2017-08-31 17:24:50.403.062|FATAL|test[2]|3078063840|main.cpp:79|fatal message
+2017-08-31 17:24:50.403.094|INFO |test1[2]|3078063840|main.cpp:37|Info message
+2017-08-31 17:24:50.403.107|DEBUG|test1[2]|3078063840|main.cpp:38|Debug message
+2017-08-31 17:24:50.403.118|TRACE|test1[2]|3078063840|main.cpp:39|Trace message
+2017-08-31 17:24:50.403.127|ERROR|test1[2]|3078063840|main.cpp:40|Error message
+2017-08-31 17:24:50.403.136|WARN |test1[2]|3078063840|main.cpp:41|Warning message
+2017-08-31 17:24:50.403.146|FATAL|test1[2]|3078063840|main.cpp:42|fatal message
+2017-08-31 17:24:50.403.174|INFO |test2[2]|3078063840|main.cpp:54|Info message
+2017-08-31 17:24:50.403.187|DEBUG|test2[2]|3078063840|main.cpp:55|Debug message
+2017-08-31 17:24:50.403.197|TRACE|test2[2]|3078063840|main.cpp:56|Trace message
+2017-08-31 17:24:50.403.206|ERROR|test2[2]|3078063840|main.cpp:57|Error message
+2017-08-31 17:24:50.403.216|WARN |test2[2]|3078063840|main.cpp:58|Warning message
+2017-08-31 17:24:50.403.225|FATAL|test2[2]|3078063840|main.cpp:59|fatal message
+2017-08-31 17:24:50.405.481|INFO |test[2]|3078100704|main.cpp:74|Info message
+2017-08-31 17:24:50.405.655|DEBUG|test[2]|3078100704|main.cpp:75|Debug message
+2017-08-31 17:24:50.405.675|TRACE|test[2]|3078100704|main.cpp:76|Trace message
+2017-08-31 17:24:50.405.687|ERROR|test[2]|3078100704|main.cpp:77|Error message
+2017-08-31 17:24:50.405.697|WARN |test[2]|3078100704|main.cpp:78|Warning message
+2017-08-31 17:24:50.405.708|FATAL|test[2]|3078100704|main.cpp:79|fatal message
+2017-08-31 17:24:50.405.752|INFO |test1[2]|3078100704|main.cpp:37|Info message
+2017-08-31 17:24:50.405.771|DEBUG|test1[2]|3078100704|main.cpp:38|Debug message
+2017-08-31 17:24:50.405.782|TRACE|test1[2]|3078100704|main.cpp:39|Trace message
+2017-08-31 17:24:50.405.792|ERROR|test1[2]|3078100704|main.cpp:40|Error message
+2017-08-31 17:24:50.405.802|WARN |test1[2]|3078100704|main.cpp:41|Warning message
+2017-08-31 17:24:50.405.812|FATAL|test1[2]|3078100704|main.cpp:42|fatal message
+2017-08-31 17:24:50.405.842|INFO |test2[2]|3078100704|main.cpp:54|Info message
+2017-08-31 17:24:50.405.855|DEBUG|test2[2]|3078100704|main.cpp:55|Debug message
+2017-08-31 17:24:50.405.865|TRACE|test2[2]|3078100704|main.cpp:56|Trace message
+2017-08-31 17:24:50.405.876|ERROR|test2[2]|3078100704|main.cpp:57|Error message
+2017-08-31 17:24:50.405.887|WARN |test2[2]|3078100704|main.cpp:58|Warning message
+2017-08-31 17:24:50.405.897|FATAL|test2[2]|3078100704|main.cpp:59|fatal message
+2017-08-31 17:24:50.408.119|INFO |test[2]|3077703392|main.cpp:74|Info message
+2017-08-31 17:24:50.408.244|DEBUG|test[2]|3077703392|main.cpp:75|Debug message
+2017-08-31 17:24:50.408.263|TRACE|test[2]|3077703392|main.cpp:76|Trace message
+2017-08-31 17:24:50.408.274|ERROR|test[2]|3077703392|main.cpp:77|Error message
+2017-08-31 17:24:50.408.284|WARN |test[2]|3077703392|main.cpp:78|Warning message
+2017-08-31 17:24:50.408.293|FATAL|test[2]|3077703392|main.cpp:79|fatal message
+2017-08-31 17:24:50.408.324|INFO |test1[2]|3077703392|main.cpp:37|Info message
+2017-08-31 17:24:50.408.338|DEBUG|test1[2]|3077703392|main.cpp:38|Debug message
+2017-08-31 17:24:50.408.348|TRACE|test1[2]|3077703392|main.cpp:39|Trace message
+2017-08-31 17:24:50.408.357|ERROR|test1[2]|3077703392|main.cpp:40|Error message
+2017-08-31 17:24:50.408.367|WARN |test1[2]|3077703392|main.cpp:41|Warning message
+2017-08-31 17:24:50.408.376|FATAL|test1[2]|3077703392|main.cpp:42|fatal message
+2017-08-31 17:24:50.408.404|INFO |test2[2]|3077703392|main.cpp:54|Info message
+2017-08-31 17:24:50.408.416|DEBUG|test2[2]|3077703392|main.cpp:55|Debug message
+2017-08-31 17:24:50.408.426|TRACE|test2[2]|3077703392|main.cpp:56|Trace message
+2017-08-31 17:24:50.408.436|ERROR|test2[2]|3077703392|main.cpp:57|Error message
+2017-08-31 17:24:50.408.445|WARN |test2[2]|3077703392|main.cpp:58|Warning message
+2017-08-31 17:24:50.408.455|FATAL|test2[2]|3077703392|main.cpp:59|fatal message
+2017-08-31 17:24:50.410.391|INFO |test[2]|3078096608|main.cpp:74|Info message
+2017-08-31 17:24:50.410.521|DEBUG|test[2]|3078096608|main.cpp:75|Debug message
+2017-08-31 17:24:50.410.541|TRACE|test[2]|3078096608|main.cpp:76|Trace message
+2017-08-31 17:24:50.410.572|ERROR|test[2]|3078096608|main.cpp:77|Error message
+2017-08-31 17:24:50.410.583|WARN |test[2]|3078096608|main.cpp:78|Warning message
+2017-08-31 17:24:50.410.593|FATAL|test[2]|3078096608|main.cpp:79|fatal message
+2017-08-31 17:24:50.410.634|INFO |test1[2]|3078096608|main.cpp:37|Info message
+2017-08-31 17:24:50.410.648|DEBUG|test1[2]|3078096608|main.cpp:38|Debug message
+2017-08-31 17:24:50.410.657|TRACE|test1[2]|3078096608|main.cpp:39|Trace message
+2017-08-31 17:24:50.410.667|ERROR|test1[2]|3078096608|main.cpp:40|Error message
+2017-08-31 17:24:50.410.676|WARN |test1[2]|3078096608|main.cpp:41|Warning message
+2017-08-31 17:24:50.410.685|FATAL|test1[2]|3078096608|main.cpp:42|fatal message
+2017-08-31 17:24:50.410.713|INFO |test2[2]|3078096608|main.cpp:54|Info message
+2017-08-31 17:24:50.410.725|DEBUG|test2[2]|3078096608|main.cpp:55|Debug message
+2017-08-31 17:24:50.410.735|TRACE|test2[2]|3078096608|main.cpp:56|Trace message
+2017-08-31 17:24:50.410.744|ERROR|test2[2]|3078096608|main.cpp:57|Error message
+2017-08-31 17:24:50.410.753|WARN |test2[2]|3078096608|main.cpp:58|Warning message
+2017-08-31 17:24:50.410.762|FATAL|test2[2]|3078096608|main.cpp:59|fatal message
+2017-08-31 17:24:50.412.938|INFO |test[2]|3078162144|main.cpp:74|Info message
+2017-08-31 17:24:50.413.078|DEBUG|test[2]|3078162144|main.cpp:75|Debug message
+2017-08-31 17:24:50.413.098|TRACE|test[2]|3078162144|main.cpp:76|Trace message
+2017-08-31 17:24:50.413.109|ERROR|test[2]|3078162144|main.cpp:77|Error message
+2017-08-31 17:24:50.413.125|WARN |test[2]|3078162144|main.cpp:78|Warning message
+2017-08-31 17:24:50.413.136|FATAL|test[2]|3078162144|main.cpp:79|fatal message
+2017-08-31 17:24:50.413.170|INFO |test1[2]|3078162144|main.cpp:37|Info message
+2017-08-31 17:24:50.413.184|DEBUG|test1[2]|3078162144|main.cpp:38|Debug message
+2017-08-31 17:24:50.413.194|TRACE|test1[2]|3078162144|main.cpp:39|Trace message
+2017-08-31 17:24:50.413.204|ERROR|test1[2]|3078162144|main.cpp:40|Error message
+2017-08-31 17:24:50.413.214|WARN |test1[2]|3078162144|main.cpp:41|Warning message
+2017-08-31 17:24:50.413.224|FATAL|test1[2]|3078162144|main.cpp:42|fatal message
+2017-08-31 17:24:50.413.254|INFO |test2[2]|3078162144|main.cpp:54|Info message
+2017-08-31 17:24:50.413.271|DEBUG|test2[2]|3078162144|main.cpp:55|Debug message
+2017-08-31 17:24:50.413.282|TRACE|test2[2]|3078162144|main.cpp:56|Trace message
+2017-08-31 17:24:50.413.292|ERROR|test2[2]|3078162144|main.cpp:57|Error message
+2017-08-31 17:24:50.413.302|WARN |test2[2]|3078162144|main.cpp:58|Warning message
+2017-08-31 17:24:50.413.312|FATAL|test2[2]|3078162144|main.cpp:59|fatal message
+2017-08-31 17:24:50.415.329|INFO |test[2]|3078346464|main.cpp:74|Info message
+2017-08-31 17:24:50.415.463|DEBUG|test[2]|3078346464|main.cpp:75|Debug message
+2017-08-31 17:24:50.415.484|TRACE|test[2]|3078346464|main.cpp:76|Trace message
+2017-08-31 17:24:50.415.494|ERROR|test[2]|3078346464|main.cpp:77|Error message
+2017-08-31 17:24:50.415.504|WARN |test[2]|3078346464|main.cpp:78|Warning message
+2017-08-31 17:24:50.415.514|FATAL|test[2]|3078346464|main.cpp:79|fatal message
+2017-08-31 17:24:50.415.583|INFO |test1[2]|3078346464|main.cpp:37|Info message
+2017-08-31 17:24:50.415.617|DEBUG|test1[2]|3078346464|main.cpp:38|Debug message
+2017-08-31 17:24:50.415.630|TRACE|test1[2]|3078346464|main.cpp:39|Trace message
+2017-08-31 17:24:50.415.641|ERROR|test1[2]|3078346464|main.cpp:40|Error message
+2017-08-31 17:24:50.415.651|WARN |test1[2]|3078346464|main.cpp:41|Warning message
+2017-08-31 17:24:50.415.661|FATAL|test1[2]|3078346464|main.cpp:42|fatal message
+2017-08-31 17:24:50.415.726|INFO |test2[2]|3078346464|main.cpp:54|Info message
+2017-08-31 17:24:50.415.778|DEBUG|test2[2]|3078346464|main.cpp:55|Debug message
+2017-08-31 17:24:50.415.790|TRACE|test2[2]|3078346464|main.cpp:56|Trace message
+2017-08-31 17:24:50.415.800|ERROR|test2[2]|3078346464|main.cpp:57|Error message
+2017-08-31 17:24:50.415.811|WARN |test2[2]|3078346464|main.cpp:58|Warning message
+2017-08-31 17:24:50.415.821|FATAL|test2[2]|3078346464|main.cpp:59|fatal message
+2017-08-31 17:24:50.417.961|INFO |test[2]|3078375136|main.cpp:74|Info message
+2017-08-31 17:24:50.418.098|DEBUG|test[2]|3078375136|main.cpp:75|Debug message
+2017-08-31 17:24:50.418.119|TRACE|test[2]|3078375136|main.cpp:76|Trace message
+2017-08-31 17:24:50.418.131|ERROR|test[2]|3078375136|main.cpp:77|Error message
+2017-08-31 17:24:50.418.141|WARN |test[2]|3078375136|main.cpp:78|Warning message
+2017-08-31 17:24:50.418.151|FATAL|test[2]|3078375136|main.cpp:79|fatal message
+2017-08-31 17:24:50.418.184|INFO |test1[2]|3078375136|main.cpp:37|Info message
+2017-08-31 17:24:50.418.199|DEBUG|test1[2]|3078375136|main.cpp:38|Debug message
+2017-08-31 17:24:50.418.209|TRACE|test1[2]|3078375136|main.cpp:39|Trace message
+2017-08-31 17:24:50.418.219|ERROR|test1[2]|3078375136|main.cpp:40|Error message
+2017-08-31 17:24:50.418.229|WARN |test1[2]|3078375136|main.cpp:41|Warning message
+2017-08-31 17:24:50.418.239|FATAL|test1[2]|3078375136|main.cpp:42|fatal message
+2017-08-31 17:24:50.418.269|INFO |test2[2]|3078375136|main.cpp:54|Info message
+2017-08-31 17:24:50.418.282|DEBUG|test2[2]|3078375136|main.cpp:55|Debug message
+2017-08-31 17:24:50.418.293|TRACE|test2[2]|3078375136|main.cpp:56|Trace message
+2017-08-31 17:24:50.418.303|ERROR|test2[2]|3078375136|main.cpp:57|Error message
+2017-08-31 17:24:50.418.313|WARN |test2[2]|3078375136|main.cpp:58|Warning message
+2017-08-31 17:24:50.418.323|FATAL|test2[2]|3078375136|main.cpp:59|fatal message
+2017-08-31 17:24:50.420.419|INFO |test[2]|3078248160|main.cpp:74|Info message
+2017-08-31 17:24:50.420.586|DEBUG|test[2]|3078248160|main.cpp:75|Debug message
+2017-08-31 17:24:50.420.613|TRACE|test[2]|3078248160|main.cpp:76|Trace message
+2017-08-31 17:24:50.420.624|ERROR|test[2]|3078248160|main.cpp:77|Error message
+2017-08-31 17:24:50.420.634|WARN |test[2]|3078248160|main.cpp:78|Warning message
+2017-08-31 17:24:50.420.644|FATAL|test[2]|3078248160|main.cpp:79|fatal message
+2017-08-31 17:24:50.420.677|INFO |test1[2]|3078248160|main.cpp:37|Info message
+2017-08-31 17:24:50.420.692|DEBUG|test1[2]|3078248160|main.cpp:38|Debug message
+2017-08-31 17:24:50.420.703|TRACE|test1[2]|3078248160|main.cpp:39|Trace message
+2017-08-31 17:24:50.420.713|ERROR|test1[2]|3078248160|main.cpp:40|Error message
+2017-08-31 17:24:50.420.722|WARN |test1[2]|3078248160|main.cpp:41|Warning message
+2017-08-31 17:24:50.420.732|FATAL|test1[2]|3078248160|main.cpp:42|fatal message
+2017-08-31 17:24:50.420.762|INFO |test2[2]|3078248160|main.cpp:54|Info message
+2017-08-31 17:24:50.420.779|DEBUG|test2[2]|3078248160|main.cpp:55|Debug message
+2017-08-31 17:24:50.420.789|TRACE|test2[2]|3078248160|main.cpp:56|Trace message
+2017-08-31 17:24:50.420.799|ERROR|test2[2]|3078248160|main.cpp:57|Error message
+2017-08-31 17:24:50.420.809|WARN |test2[2]|3078248160|main.cpp:58|Warning message
+2017-08-31 17:24:50.420.819|FATAL|test2[2]|3078248160|main.cpp:59|fatal message
+2017-08-31 17:24:50.422.893|INFO |test[2]|3077924576|main.cpp:74|Info message
+2017-08-31 17:24:50.423.045|DEBUG|test[2]|3077924576|main.cpp:75|Debug message
+2017-08-31 17:24:50.423.065|TRACE|test[2]|3077924576|main.cpp:76|Trace message
+2017-08-31 17:24:50.423.076|ERROR|test[2]|3077924576|main.cpp:77|Error message
+2017-08-31 17:24:50.423.085|WARN |test[2]|3077924576|main.cpp:78|Warning message
+2017-08-31 17:24:50.423.095|FATAL|test[2]|3077924576|main.cpp:79|fatal message
+2017-08-31 17:24:50.423.128|INFO |test1[2]|3077924576|main.cpp:37|Info message
+2017-08-31 17:24:50.423.142|DEBUG|test1[2]|3077924576|main.cpp:38|Debug message
+2017-08-31 17:24:50.423.152|TRACE|test1[2]|3077924576|main.cpp:39|Trace message
+2017-08-31 17:24:50.423.162|ERROR|test1[2]|3077924576|main.cpp:40|Error message
+2017-08-31 17:24:50.423.172|WARN |test1[2]|3077924576|main.cpp:41|Warning message
+2017-08-31 17:24:50.423.182|FATAL|test1[2]|3077924576|main.cpp:42|fatal message
+2017-08-31 17:24:50.423.211|INFO |test2[2]|3077924576|main.cpp:54|Info message
+2017-08-31 17:24:50.423.224|DEBUG|test2[2]|3077924576|main.cpp:55|Debug message
+2017-08-31 17:24:50.423.234|TRACE|test2[2]|3077924576|main.cpp:56|Trace message
+2017-08-31 17:24:50.423.243|ERROR|test2[2]|3077924576|main.cpp:57|Error message
+2017-08-31 17:24:50.423.253|WARN |test2[2]|3077924576|main.cpp:58|Warning message
+2017-08-31 17:24:50.423.263|FATAL|test2[2]|3077924576|main.cpp:59|fatal message
+2017-08-31 17:24:50.425.358|INFO |test[2]|3077621472|main.cpp:74|Info message
+2017-08-31 17:24:50.425.506|DEBUG|test[2]|3077621472|main.cpp:75|Debug message
+2017-08-31 17:24:50.425.527|TRACE|test[2]|3077621472|main.cpp:76|Trace message
+2017-08-31 17:24:50.425.538|ERROR|test[2]|3077621472|main.cpp:77|Error message
+2017-08-31 17:24:50.425.566|WARN |test[2]|3077621472|main.cpp:78|Warning message
+2017-08-31 17:24:50.425.577|FATAL|test[2]|3077621472|main.cpp:79|fatal message
+2017-08-31 17:24:50.425.611|INFO |test1[2]|3077621472|main.cpp:37|Info message
+2017-08-31 17:24:50.425.626|DEBUG|test1[2]|3077621472|main.cpp:38|Debug message
+2017-08-31 17:24:50.425.637|TRACE|test1[2]|3077621472|main.cpp:39|Trace message
+2017-08-31 17:24:50.425.647|ERROR|test1[2]|3077621472|main.cpp:40|Error message
+2017-08-31 17:24:50.425.656|WARN |test1[2]|3077621472|main.cpp:41|Warning message
+2017-08-31 17:24:50.425.666|FATAL|test1[2]|3077621472|main.cpp:42|fatal message
+2017-08-31 17:24:50.425.696|INFO |test2[2]|3077621472|main.cpp:54|Info message
+2017-08-31 17:24:50.425.709|DEBUG|test2[2]|3077621472|main.cpp:55|Debug message
+2017-08-31 17:24:50.425.719|TRACE|test2[2]|3077621472|main.cpp:56|Trace message
+2017-08-31 17:24:50.425.729|ERROR|test2[2]|3077621472|main.cpp:57|Error message
+2017-08-31 17:24:50.425.739|WARN |test2[2]|3077621472|main.cpp:58|Warning message
+2017-08-31 17:24:50.425.754|FATAL|test2[2]|3077621472|main.cpp:59|fatal message
+2017-08-31 17:24:50.427.995|INFO |test[2]|3077699296|main.cpp:74|Info message
+2017-08-31 17:24:50.428.167|DEBUG|test[2]|3077699296|main.cpp:75|Debug message
+2017-08-31 17:24:50.428.191|TRACE|test[2]|3077699296|main.cpp:76|Trace message
+2017-08-31 17:24:50.428.206|ERROR|test[2]|3077699296|main.cpp:77|Error message
+2017-08-31 17:24:50.428.219|WARN |test[2]|3077699296|main.cpp:78|Warning message
+2017-08-31 17:24:50.428.232|FATAL|test[2]|3077699296|main.cpp:79|fatal message
+2017-08-31 17:24:50.428.275|INFO |test1[2]|3077699296|main.cpp:37|Info message
+2017-08-31 17:24:50.428.294|DEBUG|test1[2]|3077699296|main.cpp:38|Debug message
+2017-08-31 17:24:50.428.307|TRACE|test1[2]|3077699296|main.cpp:39|Trace message
+2017-08-31 17:24:50.428.320|ERROR|test1[2]|3077699296|main.cpp:40|Error message
+2017-08-31 17:24:50.428.333|WARN |test1[2]|3077699296|main.cpp:41|Warning message
+2017-08-31 17:24:50.428.347|FATAL|test1[2]|3077699296|main.cpp:42|fatal message
+2017-08-31 17:24:50.428.385|INFO |test2[2]|3077699296|main.cpp:54|Info message
+2017-08-31 17:24:50.428.402|DEBUG|test2[2]|3077699296|main.cpp:55|Debug message
+2017-08-31 17:24:50.428.415|TRACE|test2[2]|3077699296|main.cpp:56|Trace message
+2017-08-31 17:24:50.428.428|ERROR|test2[2]|3077699296|main.cpp:57|Error message
+2017-08-31 17:24:50.428.441|WARN |test2[2]|3077699296|main.cpp:58|Warning message
+2017-08-31 17:24:50.428.454|FATAL|test2[2]|3077699296|main.cpp:59|fatal message
+2017-08-31 17:24:50.430.829|INFO |test[2]|3077658336|main.cpp:74|Info message
+2017-08-31 17:24:50.430.956|DEBUG|test[2]|3077658336|main.cpp:75|Debug message
+2017-08-31 17:24:50.430.974|TRACE|test[2]|3077658336|main.cpp:76|Trace message
+2017-08-31 17:24:50.430.985|ERROR|test[2]|3077658336|main.cpp:77|Error message
+2017-08-31 17:24:50.430.994|WARN |test[2]|3077658336|main.cpp:78|Warning message
+2017-08-31 17:24:50.431.004|FATAL|test[2]|3077658336|main.cpp:79|fatal message
+2017-08-31 17:24:50.431.035|INFO |test1[2]|3077658336|main.cpp:37|Info message
+2017-08-31 17:24:50.431.048|DEBUG|test1[2]|3077658336|main.cpp:38|Debug message
+2017-08-31 17:24:50.431.058|TRACE|test1[2]|3077658336|main.cpp:39|Trace message
+2017-08-31 17:24:50.431.067|ERROR|test1[2]|3077658336|main.cpp:40|Error message
+2017-08-31 17:24:50.431.077|WARN |test1[2]|3077658336|main.cpp:41|Warning message
+2017-08-31 17:24:50.431.086|FATAL|test1[2]|3077658336|main.cpp:42|fatal message
+2017-08-31 17:24:50.431.114|INFO |test2[2]|3077658336|main.cpp:54|Info message
+2017-08-31 17:24:50.431.127|DEBUG|test2[2]|3077658336|main.cpp:55|Debug message
+2017-08-31 17:24:50.431.136|TRACE|test2[2]|3077658336|main.cpp:56|Trace message
+2017-08-31 17:24:50.431.145|ERROR|test2[2]|3077658336|main.cpp:57|Error message
+2017-08-31 17:24:50.431.155|WARN |test2[2]|3077658336|main.cpp:58|Warning message
+2017-08-31 17:24:50.431.164|FATAL|test2[2]|3077658336|main.cpp:59|fatal message
+2017-08-31 17:24:50.433.281|INFO |test[2]|3077666528|main.cpp:74|Info message
+2017-08-31 17:24:50.433.414|DEBUG|test[2]|3077666528|main.cpp:75|Debug message
+2017-08-31 17:24:50.433.434|TRACE|test[2]|3077666528|main.cpp:76|Trace message
+2017-08-31 17:24:50.433.445|ERROR|test[2]|3077666528|main.cpp:77|Error message
+2017-08-31 17:24:50.433.455|WARN |test[2]|3077666528|main.cpp:78|Warning message
+2017-08-31 17:24:50.433.465|FATAL|test[2]|3077666528|main.cpp:79|fatal message
+2017-08-31 17:24:50.433.497|INFO |test1[2]|3077666528|main.cpp:37|Info message
+2017-08-31 17:24:50.433.512|DEBUG|test1[2]|3077666528|main.cpp:38|Debug message
+2017-08-31 17:24:50.433.522|TRACE|test1[2]|3077666528|main.cpp:39|Trace message
+2017-08-31 17:24:50.433.531|ERROR|test1[2]|3077666528|main.cpp:40|Error message
+2017-08-31 17:24:50.433.541|WARN |test1[2]|3077666528|main.cpp:41|Warning message
+2017-08-31 17:24:50.433.573|FATAL|test1[2]|3077666528|main.cpp:42|fatal message
+2017-08-31 17:24:50.433.606|INFO |test2[2]|3077666528|main.cpp:54|Info message
+2017-08-31 17:24:50.433.630|DEBUG|test2[2]|3077666528|main.cpp:55|Debug message
+2017-08-31 17:24:50.433.645|TRACE|test2[2]|3077666528|main.cpp:56|Trace message
+2017-08-31 17:24:50.433.655|ERROR|test2[2]|3077666528|main.cpp:57|Error message
+2017-08-31 17:24:50.433.664|WARN |test2[2]|3077666528|main.cpp:58|Warning message
+2017-08-31 17:24:50.433.674|FATAL|test2[2]|3077666528|main.cpp:59|fatal message
+2017-08-31 17:24:50.435.733|INFO |test[2]|3077621472|main.cpp:74|Info message
+2017-08-31 17:24:50.435.859|DEBUG|test[2]|3077621472|main.cpp:75|Debug message
+2017-08-31 17:24:50.435.876|TRACE|test[2]|3077621472|main.cpp:76|Trace message
+2017-08-31 17:24:50.435.886|ERROR|test[2]|3077621472|main.cpp:77|Error message
+2017-08-31 17:24:50.435.895|WARN |test[2]|3077621472|main.cpp:78|Warning message
+2017-08-31 17:24:50.435.904|FATAL|test[2]|3077621472|main.cpp:79|fatal message
+2017-08-31 17:24:50.435.934|INFO |test1[2]|3077621472|main.cpp:37|Info message
+2017-08-31 17:24:50.435.947|DEBUG|test1[2]|3077621472|main.cpp:38|Debug message
+2017-08-31 17:24:50.435.956|TRACE|test1[2]|3077621472|main.cpp:39|Trace message
+2017-08-31 17:24:50.435.965|ERROR|test1[2]|3077621472|main.cpp:40|Error message
+2017-08-31 17:24:50.435.975|WARN |test1[2]|3077621472|main.cpp:41|Warning message
+2017-08-31 17:24:50.435.983|FATAL|test1[2]|3077621472|main.cpp:42|fatal message
+2017-08-31 17:24:50.436.011|INFO |test2[2]|3077621472|main.cpp:54|Info message
+2017-08-31 17:24:50.436.023|DEBUG|test2[2]|3077621472|main.cpp:55|Debug message
+2017-08-31 17:24:50.436.032|TRACE|test2[2]|3077621472|main.cpp:56|Trace message
+2017-08-31 17:24:50.436.041|ERROR|test2[2]|3077621472|main.cpp:57|Error message
+2017-08-31 17:24:50.436.050|WARN |test2[2]|3077621472|main.cpp:58|Warning message
+2017-08-31 17:24:50.436.059|FATAL|test2[2]|3077621472|main.cpp:59|fatal message
+2017-08-31 17:24:50.438.157|INFO |test[2]|3078219488|main.cpp:74|Info message
+2017-08-31 17:24:50.438.286|DEBUG|test[2]|3078219488|main.cpp:75|Debug message
+2017-08-31 17:24:50.438.305|TRACE|test[2]|3078219488|main.cpp:76|Trace message
+2017-08-31 17:24:50.438.315|ERROR|test[2]|3078219488|main.cpp:77|Error message
+2017-08-31 17:24:50.438.325|WARN |test[2]|3078219488|main.cpp:78|Warning message
+2017-08-31 17:24:50.438.334|FATAL|test[2]|3078219488|main.cpp:79|fatal message
+2017-08-31 17:24:50.438.375|INFO |test1[2]|3078219488|main.cpp:37|Info message
+2017-08-31 17:24:50.438.388|DEBUG|test1[2]|3078219488|main.cpp:38|Debug message
+2017-08-31 17:24:50.438.398|TRACE|test1[2]|3078219488|main.cpp:39|Trace message
+2017-08-31 17:24:50.438.407|ERROR|test1[2]|3078219488|main.cpp:40|Error message
+2017-08-31 17:24:50.438.416|WARN |test1[2]|3078219488|main.cpp:41|Warning message
+2017-08-31 17:24:50.438.425|FATAL|test1[2]|3078219488|main.cpp:42|fatal message
+2017-08-31 17:24:50.438.453|INFO |test2[2]|3078219488|main.cpp:54|Info message
+2017-08-31 17:24:50.438.465|DEBUG|test2[2]|3078219488|main.cpp:55|Debug message
+2017-08-31 17:24:50.438.474|TRACE|test2[2]|3078219488|main.cpp:56|Trace message
+2017-08-31 17:24:50.438.483|ERROR|test2[2]|3078219488|main.cpp:57|Error message
+2017-08-31 17:24:50.438.492|WARN |test2[2]|3078219488|main.cpp:58|Warning message
+2017-08-31 17:24:50.438.501|FATAL|test2[2]|3078219488|main.cpp:59|fatal message
+2017-08-31 17:24:50.440.544|INFO |test[2]|3078264544|main.cpp:74|Info message
+2017-08-31 17:24:50.440.731|DEBUG|test[2]|3078264544|main.cpp:75|Debug message
+2017-08-31 17:24:50.440.750|TRACE|test[2]|3078264544|main.cpp:76|Trace message
+2017-08-31 17:24:50.440.760|ERROR|test[2]|3078264544|main.cpp:77|Error message
+2017-08-31 17:24:50.440.769|WARN |test[2]|3078264544|main.cpp:78|Warning message
+2017-08-31 17:24:50.440.778|FATAL|test[2]|3078264544|main.cpp:79|fatal message
+2017-08-31 17:24:50.440.810|INFO |test1[2]|3078264544|main.cpp:37|Info message
+2017-08-31 17:24:50.440.823|DEBUG|test1[2]|3078264544|main.cpp:38|Debug message
+2017-08-31 17:24:50.440.832|TRACE|test1[2]|3078264544|main.cpp:39|Trace message
+2017-08-31 17:24:50.440.842|ERROR|test1[2]|3078264544|main.cpp:40|Error message
+2017-08-31 17:24:50.440.851|WARN |test1[2]|3078264544|main.cpp:41|Warning message
+2017-08-31 17:24:50.440.865|FATAL|test1[2]|3078264544|main.cpp:42|fatal message
+2017-08-31 17:24:50.440.894|INFO |test2[2]|3078264544|main.cpp:54|Info message
+2017-08-31 17:24:50.440.906|DEBUG|test2[2]|3078264544|main.cpp:55|Debug message
+2017-08-31 17:24:50.440.915|TRACE|test2[2]|3078264544|main.cpp:56|Trace message
+2017-08-31 17:24:50.440.924|ERROR|test2[2]|3078264544|main.cpp:57|Error message
+2017-08-31 17:24:50.440.934|WARN |test2[2]|3078264544|main.cpp:58|Warning message
+2017-08-31 17:24:50.440.943|FATAL|test2[2]|3078264544|main.cpp:59|fatal message
+2017-08-31 17:24:50.443.139|INFO |test[2]|3077813984|main.cpp:74|Info message
+2017-08-31 17:24:50.443.281|DEBUG|test[2]|3077813984|main.cpp:75|Debug message
+2017-08-31 17:24:50.443.302|TRACE|test[2]|3077813984|main.cpp:76|Trace message
+2017-08-31 17:24:50.443.313|ERROR|test[2]|3077813984|main.cpp:77|Error message
+2017-08-31 17:24:50.443.323|WARN |test[2]|3077813984|main.cpp:78|Warning message
+2017-08-31 17:24:50.443.333|FATAL|test[2]|3077813984|main.cpp:79|fatal message
+2017-08-31 17:24:50.443.366|INFO |test1[2]|3077813984|main.cpp:37|Info message
+2017-08-31 17:24:50.443.380|DEBUG|test1[2]|3077813984|main.cpp:38|Debug message
+2017-08-31 17:24:50.443.390|TRACE|test1[2]|3077813984|main.cpp:39|Trace message
+2017-08-31 17:24:50.443.400|ERROR|test1[2]|3077813984|main.cpp:40|Error message
+2017-08-31 17:24:50.443.410|WARN |test1[2]|3077813984|main.cpp:41|Warning message
+2017-08-31 17:24:50.443.420|FATAL|test1[2]|3077813984|main.cpp:42|fatal message
+2017-08-31 17:24:50.443.449|INFO |test2[2]|3077813984|main.cpp:54|Info message
+2017-08-31 17:24:50.443.463|DEBUG|test2[2]|3077813984|main.cpp:55|Debug message
+2017-08-31 17:24:50.443.473|TRACE|test2[2]|3077813984|main.cpp:56|Trace message
+2017-08-31 17:24:50.443.483|ERROR|test2[2]|3077813984|main.cpp:57|Error message
+2017-08-31 17:24:50.443.493|WARN |test2[2]|3077813984|main.cpp:58|Warning message
+2017-08-31 17:24:50.443.502|FATAL|test2[2]|3077813984|main.cpp:59|fatal message
+2017-08-31 17:24:50.445.809|INFO |test[2]|3077469920|main.cpp:74|Info message
+2017-08-31 17:24:50.445.942|DEBUG|test[2]|3077469920|main.cpp:75|Debug message
+2017-08-31 17:24:50.445.961|TRACE|test[2]|3077469920|main.cpp:76|Trace message
+2017-08-31 17:24:50.445.971|ERROR|test[2]|3077469920|main.cpp:77|Error message
+2017-08-31 17:24:50.445.980|WARN |test[2]|3077469920|main.cpp:78|Warning message
+2017-08-31 17:24:50.445.990|FATAL|test[2]|3077469920|main.cpp:79|fatal message
+2017-08-31 17:24:50.446.022|INFO |test1[2]|3077469920|main.cpp:37|Info message
+2017-08-31 17:24:50.446.035|DEBUG|test1[2]|3077469920|main.cpp:38|Debug message
+2017-08-31 17:24:50.446.046|TRACE|test1[2]|3077469920|main.cpp:39|Trace message
+2017-08-31 17:24:50.446.055|ERROR|test1[2]|3077469920|main.cpp:40|Error message
+2017-08-31 17:24:50.446.065|WARN |test1[2]|3077469920|main.cpp:41|Warning message
+2017-08-31 17:24:50.446.074|FATAL|test1[2]|3077469920|main.cpp:42|fatal message
+2017-08-31 17:24:50.446.102|INFO |test2[2]|3077469920|main.cpp:54|Info message
+2017-08-31 17:24:50.446.115|DEBUG|test2[2]|3077469920|main.cpp:55|Debug message
+2017-08-31 17:24:50.446.125|TRACE|test2[2]|3077469920|main.cpp:56|Trace message
+2017-08-31 17:24:50.446.134|ERROR|test2[2]|3077469920|main.cpp:57|Error message
+2017-08-31 17:24:50.446.144|WARN |test2[2]|3077469920|main.cpp:58|Warning message
+2017-08-31 17:24:50.446.153|FATAL|test2[2]|3077469920|main.cpp:59|fatal message
+2017-08-31 17:24:50.448.242|INFO |test[2]|3077703392|main.cpp:74|Info message
+2017-08-31 17:24:50.448.412|DEBUG|test[2]|3077703392|main.cpp:75|Debug message
+2017-08-31 17:24:50.448.434|TRACE|test[2]|3077703392|main.cpp:76|Trace message
+2017-08-31 17:24:50.448.445|ERROR|test[2]|3077703392|main.cpp:77|Error message
+2017-08-31 17:24:50.448.456|WARN |test[2]|3077703392|main.cpp:78|Warning message
+2017-08-31 17:24:50.448.466|FATAL|test[2]|3077703392|main.cpp:79|fatal message
+2017-08-31 17:24:50.448.501|INFO |test1[2]|3077703392|main.cpp:37|Info message
+2017-08-31 17:24:50.448.517|DEBUG|test1[2]|3077703392|main.cpp:38|Debug message
+2017-08-31 17:24:50.448.527|TRACE|test1[2]|3077703392|main.cpp:39|Trace message
+2017-08-31 17:24:50.448.543|ERROR|test1[2]|3077703392|main.cpp:40|Error message
+2017-08-31 17:24:50.448.573|WARN |test1[2]|3077703392|main.cpp:41|Warning message
+2017-08-31 17:24:50.448.584|FATAL|test1[2]|3077703392|main.cpp:42|fatal message
+2017-08-31 17:24:50.448.617|INFO |test2[2]|3077703392|main.cpp:54|Info message
+2017-08-31 17:24:50.448.635|DEBUG|test2[2]|3077703392|main.cpp:55|Debug message
+2017-08-31 17:24:50.448.646|TRACE|test2[2]|3077703392|main.cpp:56|Trace message
+2017-08-31 17:24:50.448.656|ERROR|test2[2]|3077703392|main.cpp:57|Error message
+2017-08-31 17:24:50.448.666|WARN |test2[2]|3077703392|main.cpp:58|Warning message
+2017-08-31 17:24:50.448.677|FATAL|test2[2]|3077703392|main.cpp:59|fatal message
+2017-08-31 17:24:50.450.798|INFO |test[2]|3078301408|main.cpp:74|Info message
+2017-08-31 17:24:50.450.937|DEBUG|test[2]|3078301408|main.cpp:75|Debug message
+2017-08-31 17:24:50.450.958|TRACE|test[2]|3078301408|main.cpp:76|Trace message
+2017-08-31 17:24:50.450.968|ERROR|test[2]|3078301408|main.cpp:77|Error message
+2017-08-31 17:24:50.450.979|WARN |test[2]|3078301408|main.cpp:78|Warning message
+2017-08-31 17:24:50.450.989|FATAL|test[2]|3078301408|main.cpp:79|fatal message
+2017-08-31 17:24:50.451.022|INFO |test1[2]|3078301408|main.cpp:37|Info message
+2017-08-31 17:24:50.451.036|DEBUG|test1[2]|3078301408|main.cpp:38|Debug message
+2017-08-31 17:24:50.451.046|TRACE|test1[2]|3078301408|main.cpp:39|Trace message
+2017-08-31 17:24:50.451.056|ERROR|test1[2]|3078301408|main.cpp:40|Error message
+2017-08-31 17:24:50.451.066|WARN |test1[2]|3078301408|main.cpp:41|Warning message
+2017-08-31 17:24:50.451.076|FATAL|test1[2]|3078301408|main.cpp:42|fatal message
+2017-08-31 17:24:50.451.105|INFO |test2[2]|3078301408|main.cpp:54|Info message
+2017-08-31 17:24:50.451.118|DEBUG|test2[2]|3078301408|main.cpp:55|Debug message
+2017-08-31 17:24:50.451.128|TRACE|test2[2]|3078301408|main.cpp:56|Trace message
+2017-08-31 17:24:50.451.138|ERROR|test2[2]|3078301408|main.cpp:57|Error message
+2017-08-31 17:24:50.451.148|WARN |test2[2]|3078301408|main.cpp:58|Warning message
+2017-08-31 17:24:50.451.158|FATAL|test2[2]|3078301408|main.cpp:59|fatal message
+2017-08-31 17:24:50.453.111|INFO |test[2]|3077740256|main.cpp:74|Info message
+2017-08-31 17:24:50.453.238|DEBUG|test[2]|3077740256|main.cpp:75|Debug message
+2017-08-31 17:24:50.453.257|TRACE|test[2]|3077740256|main.cpp:76|Trace message
+2017-08-31 17:24:50.453.268|ERROR|test[2]|3077740256|main.cpp:77|Error message
+2017-08-31 17:24:50.453.278|WARN |test[2]|3077740256|main.cpp:78|Warning message
+2017-08-31 17:24:50.453.288|FATAL|test[2]|3077740256|main.cpp:79|fatal message
+2017-08-31 17:24:50.453.320|INFO |test1[2]|3077740256|main.cpp:37|Info message
+2017-08-31 17:24:50.453.334|DEBUG|test1[2]|3077740256|main.cpp:38|Debug message
+2017-08-31 17:24:50.453.344|TRACE|test1[2]|3077740256|main.cpp:39|Trace message
+2017-08-31 17:24:50.453.354|ERROR|test1[2]|3077740256|main.cpp:40|Error message
+2017-08-31 17:24:50.453.364|WARN |test1[2]|3077740256|main.cpp:41|Warning message
+2017-08-31 17:24:50.453.373|FATAL|test1[2]|3077740256|main.cpp:42|fatal message
+2017-08-31 17:24:50.453.403|INFO |test2[2]|3077740256|main.cpp:54|Info message
+2017-08-31 17:24:50.453.416|DEBUG|test2[2]|3077740256|main.cpp:55|Debug message
+2017-08-31 17:24:50.453.425|TRACE|test2[2]|3077740256|main.cpp:56|Trace message
+2017-08-31 17:24:50.453.435|ERROR|test2[2]|3077740256|main.cpp:57|Error message
+2017-08-31 17:24:50.453.445|WARN |test2[2]|3077740256|main.cpp:58|Warning message
+2017-08-31 17:24:50.453.455|FATAL|test2[2]|3077740256|main.cpp:59|fatal message
+2017-08-31 17:24:50.455.482|INFO |test[2]|3078412000|main.cpp:74|Info message
+2017-08-31 17:24:50.455.654|DEBUG|test[2]|3078412000|main.cpp:75|Debug message
+2017-08-31 17:24:50.455.676|TRACE|test[2]|3078412000|main.cpp:76|Trace message
+2017-08-31 17:24:50.455.695|ERROR|test[2]|3078412000|main.cpp:77|Error message
+2017-08-31 17:24:50.455.704|WARN |test[2]|3078412000|main.cpp:78|Warning message
+2017-08-31 17:24:50.455.714|FATAL|test[2]|3078412000|main.cpp:79|fatal message
+2017-08-31 17:24:50.455.751|INFO |test1[2]|3078412000|main.cpp:37|Info message
+2017-08-31 17:24:50.455.765|DEBUG|test1[2]|3078412000|main.cpp:38|Debug message
+2017-08-31 17:24:50.455.775|TRACE|test1[2]|3078412000|main.cpp:39|Trace message
+2017-08-31 17:24:50.455.784|ERROR|test1[2]|3078412000|main.cpp:40|Error message
+2017-08-31 17:24:50.455.793|WARN |test1[2]|3078412000|main.cpp:41|Warning message
+2017-08-31 17:24:50.455.802|FATAL|test1[2]|3078412000|main.cpp:42|fatal message
+2017-08-31 17:24:50.455.831|INFO |test2[2]|3078412000|main.cpp:54|Info message
+2017-08-31 17:24:50.455.843|DEBUG|test2[2]|3078412000|main.cpp:55|Debug message
+2017-08-31 17:24:50.455.853|TRACE|test2[2]|3078412000|main.cpp:56|Trace message
+2017-08-31 17:24:50.455.862|ERROR|test2[2]|3078412000|main.cpp:57|Error message
+2017-08-31 17:24:50.455.871|WARN |test2[2]|3078412000|main.cpp:58|Warning message
+2017-08-31 17:24:50.455.881|FATAL|test2[2]|3078412000|main.cpp:59|fatal message
+2017-08-31 17:24:50.457.916|INFO |test[2]|3078215392|main.cpp:74|Info message
+2017-08-31 17:24:50.458.042|DEBUG|test[2]|3078215392|main.cpp:75|Debug message
+2017-08-31 17:24:50.458.060|TRACE|test[2]|3078215392|main.cpp:76|Trace message
+2017-08-31 17:24:50.458.071|ERROR|test[2]|3078215392|main.cpp:77|Error message
+2017-08-31 17:24:50.458.080|WARN |test[2]|3078215392|main.cpp:78|Warning message
+2017-08-31 17:24:50.458.090|FATAL|test[2]|3078215392|main.cpp:79|fatal message
+2017-08-31 17:24:50.458.120|INFO |test1[2]|3078215392|main.cpp:37|Info message
+2017-08-31 17:24:50.458.133|DEBUG|test1[2]|3078215392|main.cpp:38|Debug message
+2017-08-31 17:24:50.458.143|TRACE|test1[2]|3078215392|main.cpp:39|Trace message
+2017-08-31 17:24:50.458.152|ERROR|test1[2]|3078215392|main.cpp:40|Error message
+2017-08-31 17:24:50.458.162|WARN |test1[2]|3078215392|main.cpp:41|Warning message
+2017-08-31 17:24:50.458.171|FATAL|test1[2]|3078215392|main.cpp:42|fatal message
+2017-08-31 17:24:50.458.198|INFO |test2[2]|3078215392|main.cpp:54|Info message
+2017-08-31 17:24:50.458.211|DEBUG|test2[2]|3078215392|main.cpp:55|Debug message
+2017-08-31 17:24:50.458.220|TRACE|test2[2]|3078215392|main.cpp:56|Trace message
+2017-08-31 17:24:50.458.230|ERROR|test2[2]|3078215392|main.cpp:57|Error message
+2017-08-31 17:24:50.458.239|WARN |test2[2]|3078215392|main.cpp:58|Warning message
+2017-08-31 17:24:50.458.249|FATAL|test2[2]|3078215392|main.cpp:59|fatal message
+2017-08-31 17:24:50.460.266|INFO |test[2]|3078285024|main.cpp:74|Info message
+2017-08-31 17:24:50.460.425|DEBUG|test[2]|3078285024|main.cpp:75|Debug message
+2017-08-31 17:24:50.460.445|TRACE|test[2]|3078285024|main.cpp:76|Trace message
+2017-08-31 17:24:50.460.455|ERROR|test[2]|3078285024|main.cpp:77|Error message
+2017-08-31 17:24:50.460.465|WARN |test[2]|3078285024|main.cpp:78|Warning message
+2017-08-31 17:24:50.460.474|FATAL|test[2]|3078285024|main.cpp:79|fatal message
+2017-08-31 17:24:50.460.527|INFO |test1[2]|3078285024|main.cpp:37|Info message
+2017-08-31 17:24:50.460.541|DEBUG|test1[2]|3078285024|main.cpp:38|Debug message
+2017-08-31 17:24:50.460.619|TRACE|test1[2]|3078285024|main.cpp:39|Trace message
+2017-08-31 17:24:50.460.634|ERROR|test1[2]|3078285024|main.cpp:40|Error message
+2017-08-31 17:24:50.460.644|WARN |test1[2]|3078285024|main.cpp:41|Warning message
+2017-08-31 17:24:50.460.654|FATAL|test1[2]|3078285024|main.cpp:42|fatal message
+2017-08-31 17:24:50.460.688|INFO |test2[2]|3078285024|main.cpp:54|Info message
+2017-08-31 17:24:50.460.702|DEBUG|test2[2]|3078285024|main.cpp:55|Debug message
+2017-08-31 17:24:50.460.713|TRACE|test2[2]|3078285024|main.cpp:56|Trace message
+2017-08-31 17:24:50.460.722|ERROR|test2[2]|3078285024|main.cpp:57|Error message
+2017-08-31 17:24:50.460.741|WARN |test2[2]|3078285024|main.cpp:58|Warning message
+2017-08-31 17:24:50.460.751|FATAL|test2[2]|3078285024|main.cpp:59|fatal message
+2017-08-31 17:24:50.462.933|INFO |test[2]|3077789408|main.cpp:74|Info message
+2017-08-31 17:24:50.463.074|DEBUG|test[2]|3077789408|main.cpp:75|Debug message
+2017-08-31 17:24:50.463.094|TRACE|test[2]|3077789408|main.cpp:76|Trace message
+2017-08-31 17:24:50.463.111|ERROR|test[2]|3077789408|main.cpp:77|Error message
+2017-08-31 17:24:50.463.122|WARN |test[2]|3077789408|main.cpp:78|Warning message
+2017-08-31 17:24:50.463.132|FATAL|test[2]|3077789408|main.cpp:79|fatal message
+2017-08-31 17:24:50.463.165|INFO |test1[2]|3077789408|main.cpp:37|Info message
+2017-08-31 17:24:50.463.178|DEBUG|test1[2]|3077789408|main.cpp:38|Debug message
+2017-08-31 17:24:50.463.188|TRACE|test1[2]|3077789408|main.cpp:39|Trace message
+2017-08-31 17:24:50.463.198|ERROR|test1[2]|3077789408|main.cpp:40|Error message
+2017-08-31 17:24:50.463.208|WARN |test1[2]|3077789408|main.cpp:41|Warning message
+2017-08-31 17:24:50.463.218|FATAL|test1[2]|3077789408|main.cpp:42|fatal message
+2017-08-31 17:24:50.463.246|INFO |test2[2]|3077789408|main.cpp:54|Info message
+2017-08-31 17:24:50.463.259|DEBUG|test2[2]|3077789408|main.cpp:55|Debug message
+2017-08-31 17:24:50.463.269|TRACE|test2[2]|3077789408|main.cpp:56|Trace message
+2017-08-31 17:24:50.463.279|ERROR|test2[2]|3077789408|main.cpp:57|Error message
+2017-08-31 17:24:50.463.289|WARN |test2[2]|3077789408|main.cpp:58|Warning message
+2017-08-31 17:24:50.463.299|FATAL|test2[2]|3077789408|main.cpp:59|fatal message
+2017-08-31 17:24:50.465.295|INFO |test[2]|3078244064|main.cpp:74|Info message
+2017-08-31 17:24:50.465.437|DEBUG|test[2]|3078244064|main.cpp:75|Debug message
+2017-08-31 17:24:50.465.458|TRACE|test[2]|3078244064|main.cpp:76|Trace message
+2017-08-31 17:24:50.465.469|ERROR|test[2]|3078244064|main.cpp:77|Error message
+2017-08-31 17:24:50.465.479|WARN |test[2]|3078244064|main.cpp:78|Warning message
+2017-08-31 17:24:50.465.489|FATAL|test[2]|3078244064|main.cpp:79|fatal message
+2017-08-31 17:24:50.465.522|INFO |test1[2]|3078244064|main.cpp:37|Info message
+2017-08-31 17:24:50.465.537|DEBUG|test1[2]|3078244064|main.cpp:38|Debug message
+2017-08-31 17:24:50.465.547|TRACE|test1[2]|3078244064|main.cpp:39|Trace message
+2017-08-31 17:24:50.465.571|ERROR|test1[2]|3078244064|main.cpp:40|Error message
+2017-08-31 17:24:50.465.581|WARN |test1[2]|3078244064|main.cpp:41|Warning message
+2017-08-31 17:24:50.465.591|FATAL|test1[2]|3078244064|main.cpp:42|fatal message
+2017-08-31 17:24:50.465.622|INFO |test2[2]|3078244064|main.cpp:54|Info message
+2017-08-31 17:24:50.465.635|DEBUG|test2[2]|3078244064|main.cpp:55|Debug message
+2017-08-31 17:24:50.465.645|TRACE|test2[2]|3078244064|main.cpp:56|Trace message
+2017-08-31 17:24:50.465.655|ERROR|test2[2]|3078244064|main.cpp:57|Error message
+2017-08-31 17:24:50.465.665|WARN |test2[2]|3078244064|main.cpp:58|Warning message
+2017-08-31 17:24:50.465.675|FATAL|test2[2]|3078244064|main.cpp:59|fatal message
+2017-08-31 17:24:50.467.745|INFO |test[2]|3078022880|main.cpp:74|Info message
+2017-08-31 17:24:50.467.900|DEBUG|test[2]|3078022880|main.cpp:75|Debug message
+2017-08-31 17:24:50.467.919|TRACE|test[2]|3078022880|main.cpp:76|Trace message
+2017-08-31 17:24:50.467.930|ERROR|test[2]|3078022880|main.cpp:77|Error message
+2017-08-31 17:24:50.467.940|WARN |test[2]|3078022880|main.cpp:78|Warning message
+2017-08-31 17:24:50.467.950|FATAL|test[2]|3078022880|main.cpp:79|fatal message
+2017-08-31 17:24:50.467.982|INFO |test1[2]|3078022880|main.cpp:37|Info message
+2017-08-31 17:24:50.467.997|DEBUG|test1[2]|3078022880|main.cpp:38|Debug message
+2017-08-31 17:24:50.468.007|TRACE|test1[2]|3078022880|main.cpp:39|Trace message
+2017-08-31 17:24:50.468.017|ERROR|test1[2]|3078022880|main.cpp:40|Error message
+2017-08-31 17:24:50.468.027|WARN |test1[2]|3078022880|main.cpp:41|Warning message
+2017-08-31 17:24:50.468.037|FATAL|test1[2]|3078022880|main.cpp:42|fatal message
+2017-08-31 17:24:50.468.066|INFO |test2[2]|3078022880|main.cpp:54|Info message
+2017-08-31 17:24:50.468.080|DEBUG|test2[2]|3078022880|main.cpp:55|Debug message
+2017-08-31 17:24:50.468.090|TRACE|test2[2]|3078022880|main.cpp:56|Trace message
+2017-08-31 17:24:50.468.099|ERROR|test2[2]|3078022880|main.cpp:57|Error message
+2017-08-31 17:24:50.468.109|WARN |test2[2]|3078022880|main.cpp:58|Warning message
+2017-08-31 17:24:50.468.119|FATAL|test2[2]|3078022880|main.cpp:59|fatal message
+2017-08-31 17:24:50.470.226|INFO |test[2]|3078051552|main.cpp:74|Info message
+2017-08-31 17:24:50.470.363|DEBUG|test[2]|3078051552|main.cpp:75|Debug message
+2017-08-31 17:24:50.470.383|TRACE|test[2]|3078051552|main.cpp:76|Trace message
+2017-08-31 17:24:50.470.394|ERROR|test[2]|3078051552|main.cpp:77|Error message
+2017-08-31 17:24:50.470.403|WARN |test[2]|3078051552|main.cpp:78|Warning message
+2017-08-31 17:24:50.470.412|FATAL|test[2]|3078051552|main.cpp:79|fatal message
+2017-08-31 17:24:50.470.444|INFO |test1[2]|3078051552|main.cpp:37|Info message
+2017-08-31 17:24:50.470.458|DEBUG|test1[2]|3078051552|main.cpp:38|Debug message
+2017-08-31 17:24:50.470.467|TRACE|test1[2]|3078051552|main.cpp:39|Trace message
+2017-08-31 17:24:50.470.477|ERROR|test1[2]|3078051552|main.cpp:40|Error message
+2017-08-31 17:24:50.470.486|WARN |test1[2]|3078051552|main.cpp:41|Warning message
+2017-08-31 17:24:50.470.495|FATAL|test1[2]|3078051552|main.cpp:42|fatal message
+2017-08-31 17:24:50.470.523|INFO |test2[2]|3078051552|main.cpp:54|Info message
+2017-08-31 17:24:50.470.537|DEBUG|test2[2]|3078051552|main.cpp:55|Debug message
+2017-08-31 17:24:50.470.546|TRACE|test2[2]|3078051552|main.cpp:56|Trace message
+2017-08-31 17:24:50.470.613|ERROR|test2[2]|3078051552|main.cpp:57|Error message
+2017-08-31 17:24:50.470.629|WARN |test2[2]|3078051552|main.cpp:58|Warning message
+2017-08-31 17:24:50.470.640|FATAL|test2[2]|3078051552|main.cpp:59|fatal message
+2017-08-31 17:24:50.473.012|INFO |test[2]|3078473440|main.cpp:74|Info message
+2017-08-31 17:24:50.473.151|DEBUG|test[2]|3078473440|main.cpp:75|Debug message
+2017-08-31 17:24:50.473.172|TRACE|test[2]|3078473440|main.cpp:76|Trace message
+2017-08-31 17:24:50.473.183|ERROR|test[2]|3078473440|main.cpp:77|Error message
+2017-08-31 17:24:50.473.193|WARN |test[2]|3078473440|main.cpp:78|Warning message
+2017-08-31 17:24:50.473.203|FATAL|test[2]|3078473440|main.cpp:79|fatal message
+2017-08-31 17:24:50.473.236|INFO |test1[2]|3078473440|main.cpp:37|Info message
+2017-08-31 17:24:50.473.250|DEBUG|test1[2]|3078473440|main.cpp:38|Debug message
+2017-08-31 17:24:50.473.261|TRACE|test1[2]|3078473440|main.cpp:39|Trace message
+2017-08-31 17:24:50.473.271|ERROR|test1[2]|3078473440|main.cpp:40|Error message
+2017-08-31 17:24:50.473.280|WARN |test1[2]|3078473440|main.cpp:41|Warning message
+2017-08-31 17:24:50.473.290|FATAL|test1[2]|3078473440|main.cpp:42|fatal message
+2017-08-31 17:24:50.473.320|INFO |test2[2]|3078473440|main.cpp:54|Info message
+2017-08-31 17:24:50.473.333|DEBUG|test2[2]|3078473440|main.cpp:55|Debug message
+2017-08-31 17:24:50.473.343|TRACE|test2[2]|3078473440|main.cpp:56|Trace message
+2017-08-31 17:24:50.473.352|ERROR|test2[2]|3078473440|main.cpp:57|Error message
+2017-08-31 17:24:50.473.362|WARN |test2[2]|3078473440|main.cpp:58|Warning message
+2017-08-31 17:24:50.473.372|FATAL|test2[2]|3078473440|main.cpp:59|fatal message

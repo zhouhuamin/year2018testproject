@@ -1,0 +1,27 @@
+[2015-06-05 17:31:33--266466]current cmd handler is 0,0x808e830
+[2015-06-05 17:31:33--271756]recv server 8,current server connection is 1
+[2015-06-05 17:33:15--911765]current cmd handler is 1,0x808e9e0
+[2015-06-05 17:33:16--675516]recv proxy_count is 9,8
+[2015-06-05 17:33:28--079322]current cmd handler is 2,0x808ebd0
+[2015-06-05 17:33:28--876431]recv proxy_count is 9,8
+[2015-06-05 17:33:32--648187]current cmd handler is 3,0x808edc0
+[2015-06-05 17:33:33--313041]recv proxy_count is 9,8
+[2015-06-05 17:35:15--155150]current cmd handler is 4,0x808efb0
+[2015-06-05 17:35:15--158451]recv server 8,current server connection is 1
+[2015-06-05 17:35:36--529271]current cmd handler is 5,0x808f1a0
+[2015-06-05 17:35:38--981989]recv server 8,current server connection is 1
+[2015-06-05 17:35:49--949038]current cmd handler is 6,0x808f390
+[2015-06-05 17:35:59--606530]current cmd handler is 7,0x808f580
+[2015-06-05 17:36:25--179873]current cmd handler is 0,0x808e830
+[2015-06-05 17:36:25--180112]current cmd handler is 1,0x808e9e0
+[2015-06-05 17:36:25--180211]current cmd handler is 2,0x808ebd0
+[2015-06-05 17:36:52--052881]recv server 10,current server connection is 2
+[2015-06-05 17:36:52--056713]current cmd handler is 3,0x808edc0
+[2015-06-05 17:36:52--060010]current cmd handler is 4,0x808efb0
+[2015-06-05 17:36:52--060261]current cmd handler is 5,0x808f1a0
+[2015-06-05 17:36:56--199991]recv server 11,current server connection is 2
+[2015-06-05 17:37:03--987321]recv server 12,current server connection is 3
+[2015-06-05 17:37:04--002413]current cmd handler is 6,0x808f580
+[2015-06-05 17:37:04--002619]make fake client handle 0x1! 
+[2015-06-05 17:37:04--002690]current cmd handler is 0,0x1
+[2015-06-05 17:37:27--770653]recv server 13,current server connection is 3

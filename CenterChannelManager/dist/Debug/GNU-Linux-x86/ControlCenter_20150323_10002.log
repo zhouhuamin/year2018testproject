@@ -1,0 +1,28 @@
+[2015-03-23 10:00:22--994379]read platform name: CUSTOMS,ip:192.168.1.139,port:9001
+[2015-03-23 10:00:23--011233]open database succ!
+[2015-03-23 10:00:23--011808]open database succ!
+[2015-03-23 10:00:23--012552]open database succ!
+[2015-03-23 10:00:23--013669]open database succ!
+[2015-03-23 10:00:23--014196]open database succ!
+[2015-03-23 10:00:23--014536]load library succ! dll name is  libCustomsProxy.so 
+[2015-03-23 10:00:23--014635]get create function pointer 0x283388 succ !
+[2015-03-23 10:00:23--017160]connect to 192.168.1.154:20008 succ......
+[2015-03-23 10:00:23--426796]current cmd handler is 0,0x99ee790
+[2015-03-23 10:00:23--426946]recv socket is 13
+[2015-03-23 10:00:23--427043]recv data len 116
+[2015-03-23 10:00:23--429873]recv packet type 1
+[2015-03-23 10:00:23--430019]recv channel 12345678901000000000I register...
+[2015-03-23 10:00:23--430183]register channel 12345678901000000000I succ...
+[2015-03-23 10:00:39--482178]recv data len 84
+[2015-03-23 10:00:39--485175]recv packet type 3
+[2015-03-23 10:00:55--005085]recv data len 84
+[2015-03-23 10:00:55--007752]recv packet type 3
+[2015-03-23 10:01:10--525365]recv data len 84
+[2015-03-23 10:01:10--528299]recv packet type 3
+[2015-03-23 10:01:26--050234]recv data len 84
+[2015-03-23 10:01:26--053902]recv packet type 3
+[2015-03-23 10:01:41--574104]recv data len 84
+[2015-03-23 10:01:41--576899]recv packet type 3
+[2015-03-23 10:01:46--258644]********channel 12345678901000000000I offline......
+[2015-03-23 10:03:19--038822]connect to 192.168.1.154:20008 fail......
+[2015-03-23 10:03:21--039547]connect to 192.168.1.154:20008 fail......

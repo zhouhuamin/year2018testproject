@@ -1,0 +1,58 @@
+[2017-10-13 11:21:36--354007]set device inif succ,object = 135640488, device IP = 192.168.1.118, device ID = 135639748, channel num = 0,		cmd port = 37777, user = admin
+[2017-10-13 11:21:36--358147]--------start device guard thread
+[2017-10-13 11:21:36--358694]set device inif succ,object = 135779736, device IP = 192.168.1.202, device ID = 135778996, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:21:36--363865]--------start device guard thread
+[2017-10-13 11:21:36--367551]set device inif succ,object = 135781288, device IP = 192.168.1.203, device ID = 135780500, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:21:36--374137]set device inif succ,object = 135782840, device IP = 192.168.1.204, device ID = 135782052, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:21:36--379790]--------start device guard thread
+[2017-10-13 11:21:36--390170]--------start device guard thread
+[2017-10-13 11:21:42--933347]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:21:42--934660]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:21:42--934874]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:21:49--774149]reconnect to device succ!device ip is 192.168.1.118 ,handle is -1471045504 
+[2017-10-13 11:21:49--890307]********CLIENT_RealLoadPictureEx type 1 succ!
+[2017-10-13 11:21:52--925996]recv callback info:hadnle -1470654984,alarmtyope 23 ,device is 0x815b5a8 !
+[2017-10-13 11:21:52--926429]add to m_PassVehicleDataList ...!
+[2017-10-13 11:21:59--159657]process event data 23,handle -1470654984,sequence 2,group id 1966178,plate ,event id 0,internal seq 1,action 0 ,res wid 0!
+[2017-10-13 11:21:59--161321]direct callback ,pic num 1...!file name ,plate 
+[2017-10-13 11:22:00--096960]recv callback info:hadnle -1470654984,alarmtyope 23 ,device is 0x815b5a8 !
+[2017-10-13 11:22:00--097285]add to m_PassVehicleDataList ...!
+[2017-10-13 11:22:00--140685]process event data 23,handle -1470654984,sequence 2,group id 2097284,plate ,event id 0,internal seq 1,action 0 ,res wid 0!
+[2017-10-13 11:22:00--142266]direct callback ,pic num 1...!file name ,plate 
+[2017-10-13 11:22:00--467443]recv callback info:hadnle -1470654984,alarmtyope 23 ,device is 0x815b5a8 !
+[2017-10-13 11:22:00--467732]add to m_PassVehicleDataList ...!
+[2017-10-13 11:22:00--476351]process event data 23,handle -1470654984,sequence 2,group id 2228368,plate ,event id 0,internal seq 1,action 0 ,res wid 0!
+[2017-10-13 11:22:00--478720]direct callback ,pic num 1...!file name ,plate 
+[2017-10-13 11:22:07--202865]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:22:07--209873]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:22:07--232855]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:22:18--713969]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:22:18--728761]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:22:18--738022]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:22:30--227232]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:22:30--234763]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:22:30--251024]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:22:41--735757]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:22:41--746674]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:22:41--760438]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:22:53--247856]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:22:53--259147]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:22:53--271633]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:23:04--761052]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:23:04--771533]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:23:04--780397]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:23:16--268714]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:23:16--285005]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:23:16--291229]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:23:27--781159]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:23:27--798738]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:23:27--802652]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:23:39--294627]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:23:39--312155]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:23:39--317225]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:23:50--808041]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:23:50--820514]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:23:50--827476]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:24:02--321484]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:24:02--334017]********device logion fail ,device ip is 192.168.1.202 ,error 9 
+[2017-10-13 11:24:02--337746]********device logion fail ,device ip is 192.168.1.204 ,error 9 

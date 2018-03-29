@@ -1,0 +1,129 @@
+#if !defined MODULE_BASE_INCLUDE
+#define MODULE_BASE_INCLUDE
+#define MODULE_ICCARD_READER  (0X1000)
+
+#define SYS_MSG_MODULE_ICCARD_READER_READCOMPLETE  (0X1000+1)
+
+
+
+struct DeviceInfo
+{
+	int  com_port;
+};
+
+struct ModuleInfo
+{
+	char module_name[64];
+	char factory_name[128];
+};
+
+
+typedef void (*_READ_DATA_CALLBACK_) (unsigned char* read_data,void* user_data);
+typedef void (*_ERROR_STATE_CALLBACK_) (int error_state,void* user_data);
+
+//输入/输出设备接口
+class IIOPortDevice
+{
+public:
+	IIOPortDevice(){};
+	virtual ~IIOPortDevice(){};
+
+	//读检测设备信号, wChannel为信道
+	virtual unsigned char ReadPortByteData(unsigned short wChannel){return 0;}
+	
+	//写信号，wChannel为信道，wData为数据
+	virtual unsigned char WritePortByteData(unsigned short wChannel, unsigned char wData){return 0;}
+
+	virtual unsigned char WritePortDwordData(unsigned short wChannel, unsigned int dwData){return 0;}
+
+	virtual unsigned char ReadPortDwordData(unsigned short wChannel){return 0;}
+
+	virtual unsigned char WriteIOBit(unsigned short wChannel,unsigned short wBit,unsigned short wState){return 0;}
+};
+
+
+
+//控制接口
+class IControlInterface
+{
+public:
+	IControlInterface(){};
+	virtual ~IControlInterface(){};
+
+	//LED显示
+	virtual void led_show_pic(char* pic_screen_code){};
+	//LED显示文字
+	virtual void led_show_text(char* screen_text){};
+	//声音播报
+	virtual void play_sound(char* sound_code){};
+	//警报器
+	virtual void give_alarm(int time_span){};
+
+   //LCD显示文字
+	virtual void lcd_show_text(char* conta_idf,char* conta_idb,char* conta_damage_f,char* conta_damage_b){};
+	//小票打印
+	virtual void print_ticket(char* chartoprint){};
+	
+};
+
+
+
+//模块统一接口
+class IDeviceInterface
+{
+public:
+
+	IDeviceInterface(){};
+	virtual ~IDeviceInterface(){};
+
+	//初始化设备 返回结果: 设备状态
+	virtual bool init_device(DeviceInfo device_info)=0;
+
+	//获得模块信息(模块名、厂家名，模块ID、模块文件名、模块版本号)
+	virtual void get_module_info(ModuleInfo& moduleinfo)=0;
+
+
+	//开始工作
+	virtual bool start_work()=0;
+
+	//暂停工作
+	virtual void pause(bool is_stop)=0;
+
+	//停止工作
+	virtual bool stop_work()=0;
+
+	//读数据
+	virtual bool read_data()=0;
+
+	//开始测试
+	virtual bool begin_test_device()=0;
+
+	//结束测试
+	virtual bool end_test_device()=0;
+
+	//自动检测
+	virtual int AutoDectectDevice(DEVICESTATEDATA &structStateData)=0;
+	
+	//设置运行状态
+	virtual void SetRunState(DEVICERUNSTATE deviceRunState)=0;
+
+	
+	//复位接口
+	virtual BOOL reset_device()=0;
+
+	//获取设备状态
+	virtual void get_device_state()=0;
+
+	//设置设备状态
+	virtual void  set_device_state()=0;
+
+	//关闭设备
+	virtual bool close_device()=0;
+
+       //设备模块测试接口
+	virtual bool begin_test()=0;
+	virtual bool end_test()=0;
+};
+
+#endif
+

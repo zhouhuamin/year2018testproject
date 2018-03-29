@@ -1,0 +1,12 @@
+syntax = "proto3";
+package tutorial;
+message order {
+  int32 action = 1;
+  string serialNo = 2;        
+  string version = 3;
+  string operator = 4;
+  repeated string code = 5;
+  string name = 6;
+  string price = 7;
+  string amount = 8;
+}

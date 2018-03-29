@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles" displayName="头文件" projectFiles="true">
+      <logicalFolder name="include" displayName="include" projectFiles="true">
+        <itemPath>include/CYNET_Cam.h</itemPath>
+        <itemPath>include/CYNET_Codec.h</itemPath>
+        <itemPath>include/CYNET_Snap.h</itemPath>
+        <itemPath>include/CYNET_Stream.h</itemPath>
+        <itemPath>include/CYNET_Video.h</itemPath>
+        <itemPath>include/NetCamera.h</itemPath>
+        <itemPath>include/NetCamera_Codec.h</itemPath>
+        <itemPath>include/NetCamera_Error.h</itemPath>
+        <itemPath>include/NetCamera_ErrorInfo.h</itemPath>
+        <itemPath>include/NetCamera_SnapServer.h</itemPath>
+        <itemPath>include/NetCamera_Stream2.h</itemPath>
+        <itemPath>include/NetCamera_Video.h</itemPath>
+        <itemPath>include/exif_data.h</itemPath>
+        <itemPath>include/exif_process.h</itemPath>
+        <itemPath>include/exif_process_c.h</itemPath>
+      </logicalFolder>
+      <itemPath>BoxNumberCheckAlgo.h</itemPath>
+      <itemPath>JieziBoxStruct.h</itemPath>
+      <itemPath>ProcessImage.h</itemPath>
+      <itemPath>RTUProtocol.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles" displayName="源文件" projectFiles="true">
+      <itemPath>BoxNumberCheckAlgo.cpp</itemPath>
+      <itemPath>ProcessImage.cpp</itemPath>
+      <itemPath>RTUProtocol.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles" displayName="资源文件" projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles" displayName="重要文件" projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles" displayName="重要文件" projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>CameraCapture.h</itemPath>
+    <itemPath>CascadeCmdHandler.cpp</itemPath>
+    <itemPath>CascadeCmdHandler.h</itemPath>
+    <itemPath>ContaCheckSDK.h</itemPath>
+    <itemPath>Log/FreeLongLog.cpp</itemPath>
+    <itemPath>Log/FreeLongLog.h</itemPath>
+    <itemPath>IDDetect.h</itemPath>
+    <itemPath>MSGHandleCenter.cpp</itemPath>
+    <itemPath>MSGHandleCenter.h</itemPath>
+    <itemPath>MutexGuard.cpp</itemPath>
+    <itemPath>MutexGuard.h</itemPath>
+    <itemPath>MyLog.cpp</itemPath>
+    <itemPath>MyLog.h</itemPath>
+    <itemPath>RecoClientSDK.h</itemPath>
+    <itemPath>SimpleConfig.cpp</itemPath>
+    <itemPath>SimpleConfig.h</itemPath>
+    <itemPath>SysMessage.h</itemPath>
+    <itemPath>SysMutex.cpp</itemPath>
+    <itemPath>SysMutex.h</itemPath>
+    <itemPath>SysUtil.cpp</itemPath>
+    <itemPath>SysUtil.h</itemPath>
+    <itemPath>jzLocker.h</itemPath>
+    <itemPath>main.cpp</itemPath>
+    <itemPath>tinyXML/tinystr.cpp</itemPath>
+    <itemPath>tinyXML/tinystr.h</itemPath>
+    <itemPath>tinyXML/tinyxml.cpp</itemPath>
+    <itemPath>tinyXML/tinyxml.h</itemPath>
+    <itemPath>tinyXML/tinyxmlerror.cpp</itemPath>
+    <itemPath>tinyXML/tinyxmlparser.cpp</itemPath>
+    <itemPath>tinyXML/xml_config.cpp</itemPath>
+    <itemPath>tinyXML/xml_config.h</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>include</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>GNU|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>../../../../tools/ACE_wrappers</pElem>
+            <pElem>/usr/include/mysql</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>/root/jiezisoft/bin/${CND_CONF}/${CND_PLATFORM}/boxrecogservertest</output>
+          <linkerLibItems>
+            <linkerLibFileItem>../../../../tools/ACE_wrappers/lib/libACE.so</linkerLibFileItem>
+            <linkerLibFileItem>/usr/lib/libRecoClientSDK.so</linkerLibFileItem>
+            <linkerLibFileItem>/usr/local/lib/libzmq.so</linkerLibFileItem>
+            <linkerLibFileItem>/usr/lib/libJZContaCheckSDK.so</linkerLibFileItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="BoxNumberCheckAlgo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BoxNumberCheckAlgo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CameraCapture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CascadeCmdHandler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CascadeCmdHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ContaCheckSDK.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IDDetect.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JieziBoxStruct.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MSGHandleCenter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MSGHandleCenter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MutexGuard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MutexGuard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MyLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MyLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProcessImage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProcessImage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RTUProtocol.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RTUProtocol.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RecoClientSDK.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMessage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMutex.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysUtil.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysUtil.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Cam.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Codec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Snap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Video.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Codec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Error.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_ErrorInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_SnapServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Stream2.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Video.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_data.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_process.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_process_c.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="jzLocker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlerror.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlparser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>GNU|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <incDir>
+            <pElem>../../../tools/ACE_wrappers</pElem>
+          </incDir>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <linkerTool>
+          <output>/root/jiezisoft/bin/${CND_CONF}/${CND_PLATFORM}/boxrecogserver</output>
+          <linkerLibItems>
+            <linkerLibFileItem>../../../tools/ACE_wrappers/lib/libACE.so</linkerLibFileItem>
+            <linkerLibFileItem>../../../libs/Release/GNU-Linux-x86/libRecoClientSDK.so</linkerLibFileItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="BoxNumberCheckAlgo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BoxNumberCheckAlgo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CameraCapture.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CascadeCmdHandler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CascadeCmdHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ContaCheckSDK.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IDDetect.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JieziBoxStruct.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MSGHandleCenter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MSGHandleCenter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MutexGuard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MutexGuard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MyLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MyLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProcessImage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProcessImage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RTUProtocol.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RTUProtocol.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RecoClientSDK.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMessage.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMutex.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysUtil.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysUtil.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Cam.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Codec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Snap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/CYNET_Video.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Codec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Error.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_ErrorInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_SnapServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Stream2.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/NetCamera_Video.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_data.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_process.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/exif_process_c.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="jzLocker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlerror.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlparser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

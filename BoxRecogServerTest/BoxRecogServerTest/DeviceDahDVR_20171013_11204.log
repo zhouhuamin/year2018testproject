@@ -1,0 +1,11 @@
+[2017-10-13 11:20:43--944194]set device inif succ,object = 135640488, device IP = 192.168.1.118, device ID = 135639748, channel num = 0,		cmd port = 37777, user = admin
+[2017-10-13 11:20:43--947896]set device inif succ,object = 135779736, device IP = 192.168.1.202, device ID = 135778996, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:20:43--950410]--------start device guard thread
+[2017-10-13 11:20:43--955381]--------start device guard thread
+[2017-10-13 11:20:43--962264]set device inif succ,object = 135781288, device IP = 192.168.1.203, device ID = 135780500, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:20:43--967794]set device inif succ,object = 135782840, device IP = 192.168.1.204, device ID = 135782052, channel num = 0,		cmd port = 2233, user = admin
+[2017-10-13 11:20:43--968090]--------start device guard thread
+[2017-10-13 11:20:43--980065]--------start device guard thread
+[2017-10-13 11:20:50--371043]********device logion fail ,device ip is 192.168.1.203 ,error 9 
+[2017-10-13 11:20:50--371153]********device logion fail ,device ip is 192.168.1.204 ,error 9 
+[2017-10-13 11:20:50--371254]********device logion fail ,device ip is 192.168.1.202 ,error 9 

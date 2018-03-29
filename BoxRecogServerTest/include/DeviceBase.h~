@@ -1,0 +1,164 @@
+#if !defined DV_DEVICE_BASE_H
+#define DV_DEVICE_BASE_H
+
+#pragma warning(disable:4786)
+
+#include <vector>
+#include <map>
+#include <list>
+#include <string>
+using namespace std;
+
+/*
+ *	返回值定义
+ */
+#define     MAX_CHANNEL_TIMEOUT              1200       //通道重连时间(s)
+#define     MAX_DEVICE_TIMEOUT               20        //设备重连时间(s)
+
+#define		VP_RESULT_SUCCESSFUL			0X00		//成功
+#define		VP_ERROR_UNKNOW					0X01		//错误，未知原因
+#define		VP_ERROR_NOTLOGIN				0X02		//错误，未登陆
+
+
+#define     DEVICE_STATE_LOGIN_SUCCESS  0x01
+#define     DEVICE_STATE_LOGIN_FAIL     0x02 
+#define     DEVICE_STATE_OFF_LINE       0x03
+#define     DEVICE_STATE_RECONNECTTED   0x04
+
+struct VP_DEVICE_INFO
+{
+    char device_id[32]; //设备ID
+    char device_ip[32]; //设备IP地址
+    char point_id[32]; //设备IP地址
+    int channel_num; //设备通道
+    int command_port; //设备命令端口
+    char device_user[32]; //设备用户
+    char device_pass[32]; //设备密码
+};
+
+struct VP_SendPicInfo
+{
+    int nPicType; //0,车辆第一张图片 1，车辆第二张图片  2，号牌图片  3，驾驶员图片
+    int nOffSet;
+    int nPicDataLen;
+
+};
+
+struct VP_PASS_VEHICLE_INFO
+{
+    char szVehicleID[32];
+    char szPointID[16];
+    char szDeviceID[16];
+    char szHPZL[8];
+    char szHPHM[16];
+    char szHPYS[16];
+    char szPassTime[32];
+    int nSpeed;
+    int nVehLength;
+    char szDirectID[4];
+    char szLaneID[4];
+    char szVehCLLX[4];
+    char szPicType[4]; //图片类型 10 单张图片 20 两张图片
+    char szPicPath1[256];
+    char szPicPath2[256];
+    char szHpPic[256];
+    char szHPPos[64]; //号牌所在特写图片的位置  R: L: W: H:
+    int nIsDriver;
+    char szVehDriverPicPath[256];
+    int nIsAlarm;
+    int nAlarmSource;
+    int nPicVisitType; //图片访问方式 0 路径访问 1 远程访问
+    char szStoreDevice[16]; //图片存储的设备
+    char szModifyID[16];
+    char szModifyDate[32];
+    char szReserve1[256];
+    char szReserve2[256];
+    int nPicNum; //图片数目
+    VP_SendPicInfo picInfo[4];
+    char szPicBuffer[];
+};
+
+
+//回调设备状态
+#ifdef WIN32
+typedef void(CALLBACK *_DEVICE_STATUS_CALLBACK_) (char* szDeviceIP, unsigned char ucStatus);
+#else
+typedef void (*_DEVICE_STATUS_CALLBACK_) (char* szDeviceIP, unsigned char ucStatus);
+#endif
+
+
+//回调抓拍的过车信息
+#ifdef WIN32
+
+typedef void(CALLBACK *_PASS_VEHICLE_CALLBACK_) (VP_PASS_VEHICLE_INFO& pVehicleInfo);
+
+#else
+typedef void(*_PASS_VEHICLE_CALLBACK_) (VP_PASS_VEHICLE_INFO& pVehicleInfo);
+
+#endif
+
+class CDeviceBase
+{
+public:
+
+    CDeviceBase()
+    {
+    }
+    ;
+
+    virtual ~CDeviceBase()
+    {
+    };
+
+public:
+
+    /*
+     *设备登录和注销
+     */
+    virtual int Login()
+    {
+        return 0;
+    }
+
+    virtual int Logout()
+    {
+        return 0;
+    }
+
+    /*
+     *设置设备基本信息
+     */
+    virtual int SetDeviceInfo(VP_DEVICE_INFO *pDeviceInfo)
+    {
+        return 0;
+    }
+
+    /*
+     *	设备连接状态
+     */
+    virtual bool IsConnect()
+    {
+        return false;
+    }
+
+    /*
+     *
+     */
+    virtual int SetPicSavePath(char* szSavePath)
+    {
+        return 0;
+    }
+
+    virtual int SetDeviceStatuesCB(_DEVICE_STATUS_CALLBACK_ cbDeviceStatus)
+    {
+        return 0;
+    }
+
+    virtual int SetPassVehicleCB(_PASS_VEHICLE_CALLBACK_ cbPassVehicle)
+    {
+        return 0;
+    }
+};
+
+#endif
+

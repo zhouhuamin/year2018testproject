@@ -1,0 +1,9 @@
+[2015-03-23 09:54:54--133996]read platform name: CUSTOMS,ip:192.168.1.139,port:9001
+[2015-03-23 09:54:54--159009]open database succ!
+[2015-03-23 09:54:54--159773]open database succ!
+[2015-03-23 09:54:54--160314]open database succ!
+[2015-03-23 09:54:54--160914]open database succ!
+[2015-03-23 09:54:54--161489]open database succ!
+[2015-03-23 09:54:54--161815]load library succ! dll name is  libCustomsProxy.so 
+[2015-03-23 09:54:54--161921]get create function pointer 0x599388 succ !
+[2015-03-23 09:54:54--162728]connect to 192.168.1.154:20008 succ......

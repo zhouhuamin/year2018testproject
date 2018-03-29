@@ -1,0 +1,38 @@
+#ifndef RECO_CLIENT_SDK_H_
+#define RECO_CLIENT_SDK_H_
+
+//集装箱号区域
+struct Region
+{
+	int x;
+	int y;
+	int width;
+	int height;
+}Region;
+//颜色
+enum Color {RED, BLUE, WHITE, GRAY, GREEN, OTHER};
+
+//集装箱号排列方式
+enum AlignType {H, T};//H:horizontal 横排  T：tandem 竖排
+
+struct Align
+{
+	AlignType Atype;//排列方式 横排或者竖排
+	int count;//排数
+};
+
+
+struct RecoContaID
+{
+	char ID[12];//集装箱号：4位字母，6位数字，1位校验码
+	char Type[5];//集装箱类型
+	Region reg;//区域
+	Color color;//颜色
+	Align ali;//排列方式
+};
+
+extern "C" int  PathReadCode(char *ImagePath,ContainerID *code);//接口函数1
+extern "C" int  CReadCode(unsigned char *Image, int width, int height, ContainerID *code);//接口函数2
+
+
+#endif

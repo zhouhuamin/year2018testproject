@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles" displayName="头文件" projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles" displayName="源文件" projectFiles="true">
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles" displayName="资源文件" projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="测试文件"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="重要文件"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>CmdHandler_T.cpp</itemPath>
+    <itemPath>CmdHandler_T.h</itemPath>
+    <itemPath>Cmd_Acceptor.cpp</itemPath>
+    <itemPath>Cmd_Acceptor.h</itemPath>
+    <itemPath>Log/FreeLongLog.cpp</itemPath>
+    <itemPath>Log/FreeLongLog.h</itemPath>
+    <itemPath>Log/FreeLongSourceRegister.cpp</itemPath>
+    <itemPath>Log/FreeLongSourceRegister.h</itemPath>
+    <itemPath>MSG_Center.cpp</itemPath>
+    <itemPath>MSG_Center.h</itemPath>
+    <itemPath>MyLog.cpp</itemPath>
+    <itemPath>MyLog.h</itemPath>
+    <itemPath>SimpleConfig.cpp</itemPath>
+    <itemPath>SimpleConfig.h</itemPath>
+    <itemPath>SysMutex.cpp</itemPath>
+    <itemPath>SysMutex.h</itemPath>
+    <itemPath>SysUtil.cpp</itemPath>
+    <itemPath>SysUtil.h</itemPath>
+    <itemPath>tinyXML/tinystr.cpp</itemPath>
+    <itemPath>tinyXML/tinyxml.cpp</itemPath>
+    <itemPath>tinyXML/tinyxmlerror.cpp</itemPath>
+    <itemPath>tinyXML/tinyxmlparser.cpp</itemPath>
+    <itemPath>tinyXML/xml_config.cpp</itemPath>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>../../../tools/ACE_wrappers</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>/root/jiezisoft/bin/${CND_CONF}/${CND_PLATFORM}/recoservermanager</output>
+          <linkerLibItems>
+            <linkerLibFileItem>../../../tools/ACE_wrappers/lib/libACE.so</linkerLibFileItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="CmdHandler_T.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CmdHandler_T.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cmd_Acceptor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cmd_Acceptor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongSourceRegister.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongSourceRegister.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MSG_Center.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MSG_Center.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MyLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MyLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMutex.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysUtil.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysUtil.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlerror.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlparser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="CmdHandler_T.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CmdHandler_T.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cmd_Acceptor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cmd_Acceptor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Log/FreeLongSourceRegister.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Log/FreeLongSourceRegister.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MSG_Center.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MSG_Center.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MyLog.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MyLog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SimpleConfig.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SimpleConfig.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysMutex.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SysUtil.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SysUtil.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinystr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxml.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlerror.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/tinyxmlparser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tinyXML/xml_config.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
